@@ -1,101 +1,501 @@
-checking_status,duration,credit_history,purpose,credit_amount,savings_status,employment,installment_commitment,personal_status,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,class
-0<=X<200,27.0,delayed previously,used car,5965.0,<100,>=7,1.0,male single,none,2.0,car,30.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,good
-<0,6.0,existing paid,new car,1203.0,100<=X<500,>=7,3.0,male single,none,2.0,life insurance,43.0,none,own,1.0,skilled,1.0,yes,yes,good
-no checking,24.0,existing paid,radio/tv,3621.0,100<=X<500,>=7,2.0,male single,none,4.0,car,31.0,none,own,2.0,skilled,1.0,none,yes,bad
-no checking,12.0,existing paid,radio/tv,886.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,2.0,car,21.0,none,own,1.0,skilled,1.0,none,yes,good
-0<=X<200,48.0,no credits/all paid,new car,8358.0,500<=X<1000,<1,1.0,female div/dep/mar,none,1.0,car,30.0,none,own,2.0,skilled,1.0,none,yes,good
-<0,18.0,existing paid,furniture/equipment,4153.0,<100,1<=X<4,2.0,male single,co applicant,3.0,car,42.0,none,own,1.0,skilled,1.0,none,yes,bad
->=200,9.0,existing paid,radio/tv,1126.0,100<=X<500,>=7,2.0,male div/sep,none,4.0,real estate,49.0,none,own,1.0,skilled,1.0,none,yes,good
->=200,21.0,existing paid,new car,2923.0,100<=X<500,1<=X<4,1.0,female div/dep/mar,none,1.0,car,28.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,good
-no checking,9.0,critical/other existing credit,education,936.0,500<=X<1000,>=7,4.0,male single,none,2.0,car,52.0,none,own,2.0,skilled,1.0,yes,yes,good
-<0,24.0,existing paid,furniture/equipment,2359.0,100<=X<500,unemployed,1.0,male div/sep,none,1.0,life insurance,33.0,none,own,1.0,skilled,1.0,none,yes,bad
-no checking,36.0,existing paid,radio/tv,3835.0,no known savings,>=7,2.0,female div/dep/mar,none,4.0,real estate,45.0,none,own,1.0,unskilled resident,1.0,yes,yes,good
-<0,24.0,existing paid,new car,1285.0,no known savings,4<=X<7,4.0,female div/dep/mar,none,4.0,no known property,32.0,none,rent,1.0,skilled,1.0,none,yes,bad
-no checking,36.0,existing paid,used car,8133.0,<100,1<=X<4,1.0,female div/dep/mar,none,2.0,life insurance,30.0,bank,own,1.0,skilled,1.0,none,yes,good
-no checking,18.0,existing paid,radio/tv,1505.0,<100,1<=X<4,4.0,male single,none,2.0,no known property,32.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,good
-no checking,12.0,critical/other existing credit,radio/tv,717.0,<100,>=7,4.0,male single,none,4.0,real estate,52.0,none,own,3.0,skilled,1.0,none,yes,good
->=200,24.0,critical/other existing credit,new car,1344.0,no known savings,4<=X<7,4.0,male single,none,2.0,real estate,37.0,bank,own,2.0,unskilled resident,2.0,none,yes,bad
-<0,24.0,existing paid,radio/tv,1938.0,<100,<1,4.0,male div/sep,none,3.0,life insurance,32.0,none,own,1.0,skilled,1.0,none,yes,bad
-<0,33.0,critical/other existing credit,furniture/equipment,4281.0,500<=X<1000,1<=X<4,1.0,female div/dep/mar,none,4.0,car,23.0,none,own,2.0,skilled,1.0,none,yes,bad
-<0,24.0,all paid,other,1358.0,no known savings,>=7,4.0,male single,none,3.0,car,40.0,stores,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,bad
-<0,12.0,critical/other existing credit,new car,3499.0,<100,1<=X<4,3.0,female div/dep/mar,co applicant,2.0,real estate,29.0,none,own,2.0,skilled,1.0,none,yes,bad
-0<=X<200,24.0,existing paid,used car,4113.0,500<=X<1000,<1,3.0,female div/dep/mar,none,4.0,car,28.0,none,rent,1.0,skilled,1.0,none,yes,bad
-0<=X<200,12.0,existing paid,radio/tv,1092.0,<100,1<=X<4,4.0,female div/dep/mar,guarantor,4.0,real estate,49.0,none,own,2.0,skilled,1.0,yes,yes,good
-no checking,24.0,existing paid,new car,1525.0,>=1000,4<=X<7,4.0,female div/dep/mar,none,3.0,car,34.0,none,own,1.0,skilled,2.0,yes,yes,good
-no checking,36.0,no credits/all paid,repairs,2613.0,<100,1<=X<4,4.0,male single,none,2.0,car,27.0,none,own,2.0,skilled,1.0,none,yes,good
-0<=X<200,30.0,existing paid,radio/tv,1715.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,1.0,car,26.0,none,own,1.0,skilled,1.0,none,yes,good
-0<=X<200,11.0,critical/other existing credit,new car,1322.0,>=1000,1<=X<4,4.0,female div/dep/mar,none,4.0,car,40.0,none,own,2.0,skilled,1.0,none,yes,good
-no checking,24.0,existing paid,new car,1393.0,<100,1<=X<4,2.0,male single,guarantor,2.0,real estate,31.0,none,own,1.0,skilled,1.0,yes,yes,good
-no checking,12.0,critical/other existing credit,furniture/equipment,5801.0,no known savings,>=7,2.0,male single,none,4.0,life insurance,49.0,none,rent,1.0,skilled,1.0,yes,yes,good
-no checking,12.0,existing paid,education,719.0,<100,>=7,4.0,male single,none,4.0,car,41.0,bank,own,1.0,unskilled resident,2.0,none,yes,bad
-<0,16.0,critical/other existing credit,new car,2625.0,<100,>=7,2.0,male single,guarantor,4.0,life insurance,43.0,bank,rent,1.0,skilled,1.0,yes,yes,bad
-0<=X<200,30.0,critical/other existing credit,new car,2181.0,no known savings,>=7,4.0,male single,none,4.0,real estate,36.0,none,own,2.0,skilled,1.0,none,yes,good
-no checking,6.0,existing paid,radio/tv,1346.0,100<=X<500,>=7,2.0,male single,none,4.0,no known property,42.0,bank,for free,1.0,skilled,2.0,yes,yes,good
-0<=X<200,7.0,existing paid,radio/tv,2576.0,<100,1<=X<4,2.0,male single,guarantor,2.0,real estate,35.0,none,own,1.0,skilled,1.0,none,yes,good
-no checking,4.0,critical/other existing credit,radio/tv,1544.0,<100,4<=X<7,2.0,male single,none,1.0,real estate,42.0,none,own,3.0,unskilled resident,2.0,none,yes,good
-no checking,21.0,existing paid,radio/tv,3160.0,no known savings,>=7,4.0,male single,none,3.0,life insurance,41.0,none,own,1.0,skilled,1.0,yes,yes,good
-no checking,36.0,delayed previously,business,7980.0,no known savings,<1,4.0,male single,none,4.0,car,27.0,none,rent,2.0,skilled,1.0,yes,yes,bad
-<0,11.0,critical/other existing credit,new car,3939.0,<100,1<=X<4,1.0,male single,none,2.0,real estate,40.0,none,own,2.0,unskilled resident,2.0,none,yes,good
->=200,36.0,existing paid,radio/tv,5848.0,<100,1<=X<4,4.0,male single,none,1.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,good
-no checking,15.0,existing paid,new car,5324.0,500<=X<1000,>=7,1.0,female div/dep/mar,none,4.0,no known property,35.0,none,for free,1.0,skilled,1.0,none,yes,good
-<0,6.0,existing paid,furniture/equipment,428.0,<100,>=7,2.0,female div/dep/mar,none,1.0,life insurance,49.0,bank,own,1.0,skilled,1.0,yes,yes,good
-<0,24.0,existing paid,new car,1371.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,4.0,real estate,25.0,none,rent,1.0,skilled,1.0,none,yes,bad
-no checking,36.0,critical/other existing credit,business,6304.0,no known savings,>=7,4.0,male single,none,4.0,real estate,36.0,none,own,2.0,skilled,1.0,none,yes,good
-<0,6.0,existing paid,new car,14896.0,<100,>=7,1.0,male single,none,4.0,no known property,68.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,bad
-<0,48.0,existing paid,radio/tv,6758.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,car,31.0,none,own,1.0,skilled,1.0,yes,yes,bad
-no checking,36.0,critical/other existing credit,new car,3535.0,<100,4<=X<7,4.0,male single,none,4.0,car,37.0,none,own,2.0,skilled,1.0,yes,yes,good
-<0,12.0,existing paid,furniture/equipment,1282.0,<100,1<=X<4,2.0,female div/dep/mar,none,4.0,car,20.0,none,rent,1.0,skilled,1.0,none,yes,bad
-no checking,12.0,critical/other existing credit,new car,1495.0,<100,>=7,4.0,male single,none,1.0,real estate,38.0,none,own,2.0,unskilled resident,2.0,none,yes,good
-<0,12.0,existing paid,new car,2579.0,<100,<1,4.0,male single,none,1.0,real estate,33.0,none,own,1.0,unskilled resident,2.0,none,yes,bad
-0<=X<200,12.0,critical/other existing credit,domestic appliance,1424.0,<100,4<=X<7,4.0,male single,none,3.0,life insurance,26.0,none,own,1.0,skilled,1.0,none,yes,good
-<0,24.0,no credits/all paid,furniture/equipment,4110.0,<100,>=7,3.0,male single,none,4.0,no known property,23.0,bank,rent,2.0,skilled,2.0,none,yes,bad
-no checking,15.0,existing paid,education,4623.0,100<=X<500,1<=X<4,3.0,male single,none,2.0,life insurance,40.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,bad
-no checking,12.0,existing paid,business,1542.0,<100,4<=X<7,2.0,male single,none,4.0,car,36.0,none,own,1.0,skilled,1.0,yes,yes,good
-<0,21.0,critical/other existing credit,new car,1602.0,<100,>=7,4.0,male mar/wid,none,3.0,car,30.0,none,own,2.0,skilled,1.0,yes,yes,good
-no checking,15.0,existing paid,radio/tv,1979.0,no known savings,>=7,4.0,male single,none,2.0,car,35.0,none,own,1.0,skilled,1.0,none,yes,good
-no checking,6.0,all paid,new car,783.0,no known savings,1<=X<4,1.0,male single,guarantor,2.0,real estate,26.0,stores,own,1.0,unskilled resident,2.0,none,yes,good
->=200,24.0,existing paid,radio/tv,1377.0,100<=X<500,>=7,4.0,female div/dep/mar,none,2.0,no known property,47.0,none,for free,1.0,skilled,1.0,yes,yes,good
-0<=X<200,18.0,existing paid,new car,1042.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,2.0,life insurance,33.0,none,own,1.0,skilled,1.0,none,yes,bad
-no checking,21.0,existing paid,business,1572.0,>=1000,>=7,4.0,female div/dep/mar,none,4.0,real estate,36.0,bank,own,1.0,unskilled resident,1.0,none,yes,good
-<0,24.0,delayed previously,radio/tv,1024.0,<100,<1,4.0,male mar/wid,none,4.0,real estate,48.0,stores,own,1.0,skilled,1.0,none,yes,bad
-0<=X<200,48.0,existing paid,new car,8487.0,no known savings,4<=X<7,1.0,female div/dep/mar,none,2.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,good
-no checking,6.0,existing paid,retraining,1238.0,no known savings,unemployed,4.0,male single,none,4.0,life insurance,36.0,none,own,1.0,high qualif/self emp/mgmt,2.0,yes,yes,good
-0<=X<200,36.0,existing paid,new car,14318.0,<100,>=7,4.0,male single,none,2.0,no known property,57.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,bad
-no checking,12.0,existing paid,new car,2390.0,no known savings,>=7,4.0,male single,none,3.0,car,50.0,none,own,1.0,skilled,1.0,yes,yes,good
-no checking,42.0,critical/other existing credit,furniture/equipment,4042.0,500<=X<1000,1<=X<4,4.0,male single,none,4.0,real estate,36.0,none,own,2.0,skilled,1.0,yes,yes,good
-<0,12.0,existing paid,radio/tv,701.0,<100,1<=X<4,4.0,male mar/wid,none,2.0,real estate,40.0,none,own,1.0,unskilled resident,1.0,none,yes,good
-0<=X<200,11.0,existing paid,furniture/equipment,1577.0,>=1000,<1,4.0,female div/dep/mar,none,1.0,real estate,20.0,none,own,1.0,skilled,1.0,none,yes,good
->=200,30.0,critical/other existing credit,radio/tv,3017.0,<100,>=7,4.0,male single,none,4.0,life insurance,47.0,none,own,1.0,skilled,1.0,none,yes,good
-<0,42.0,critical/other existing credit,repairs,3394.0,<100,unemployed,4.0,male single,co applicant,4.0,car,65.0,none,own,2.0,unemp/unskilled non res,1.0,none,yes,good
-no checking,18.0,critical/other existing credit,radio/tv,1582.0,>=1000,>=7,4.0,male single,none,4.0,car,46.0,none,own,2.0,skilled,1.0,none,yes,good
-<0,24.0,critical/other existing credit,used car,2957.0,<100,>=7,4.0,male single,none,4.0,life insurance,63.0,none,own,2.0,skilled,1.0,yes,yes,good
-<0,24.0,delayed previously,new car,1333.0,<100,unemployed,4.0,male single,none,2.0,real estate,43.0,none,for free,2.0,skilled,2.0,none,yes,bad
-no checking,18.0,existing paid,used car,3378.0,no known savings,1<=X<4,2.0,male single,none,1.0,life insurance,31.0,none,own,1.0,skilled,1.0,yes,yes,good
-no checking,60.0,existing paid,new car,10366.0,<100,>=7,2.0,male single,none,4.0,life insurance,42.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,good
-no checking,12.0,critical/other existing credit,business,1185.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,real estate,27.0,none,own,2.0,skilled,1.0,none,yes,good
-0<=X<200,12.0,existing paid,new car,888.0,<100,>=7,4.0,male single,none,4.0,car,41.0,bank,own,1.0,unskilled resident,2.0,none,yes,bad
-no checking,12.0,critical/other existing credit,education,2096.0,<100,4<=X<7,2.0,male single,none,3.0,real estate,49.0,none,own,1.0,unskilled resident,2.0,none,yes,good
-0<=X<200,6.0,existing paid,repairs,454.0,<100,<1,3.0,male mar/wid,none,1.0,life insurance,22.0,none,own,1.0,unskilled resident,1.0,none,yes,good
-<0,24.0,critical/other existing credit,new car,1199.0,<100,>=7,4.0,male single,none,4.0,car,60.0,none,own,2.0,unskilled resident,1.0,none,yes,bad
-no checking,6.0,existing paid,domestic appliance,1338.0,500<=X<1000,1<=X<4,1.0,male div/sep,none,4.0,real estate,62.0,none,own,1.0,skilled,1.0,none,yes,good
-<0,12.0,all paid,radio/tv,626.0,<100,1<=X<4,4.0,female div/dep/mar,none,4.0,real estate,24.0,bank,own,1.0,unskilled resident,1.0,none,yes,bad
-<0,15.0,critical/other existing credit,furniture/equipment,975.0,<100,1<=X<4,2.0,male div/sep,none,3.0,life insurance,25.0,none,own,2.0,skilled,1.0,none,yes,good
-<0,18.0,critical/other existing credit,new car,5302.0,<100,>=7,2.0,male single,none,4.0,no known property,36.0,none,for free,3.0,high qualif/self emp/mgmt,1.0,yes,yes,good
-0<=X<200,36.0,delayed previously,new car,7432.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,life insurance,54.0,none,rent,1.0,skilled,1.0,none,yes,good
-no checking,42.0,existing paid,radio/tv,7166.0,no known savings,4<=X<7,2.0,male mar/wid,none,4.0,life insurance,29.0,none,rent,1.0,skilled,1.0,yes,yes,good
-<0,24.0,existing paid,new car,4817.0,<100,4<=X<7,2.0,male single,co applicant,3.0,life insurance,31.0,none,own,1.0,skilled,1.0,yes,yes,bad
-0<=X<200,20.0,delayed previously,other,2629.0,<100,1<=X<4,2.0,male single,none,3.0,car,29.0,bank,own,2.0,skilled,1.0,yes,yes,good
-0<=X<200,9.0,all paid,new car,1437.0,100<=X<500,4<=X<7,2.0,male single,none,3.0,no known property,29.0,none,own,1.0,skilled,1.0,none,yes,bad
-no checking,36.0,existing paid,furniture/equipment,10974.0,<100,unemployed,4.0,female div/dep/mar,none,2.0,car,26.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,bad
-no checking,21.0,delayed previously,used car,2993.0,<100,1<=X<4,3.0,male single,none,2.0,real estate,28.0,stores,own,2.0,unskilled resident,1.0,none,yes,good
-<0,42.0,existing paid,radio/tv,3965.0,<100,<1,4.0,male single,none,3.0,car,34.0,none,own,1.0,skilled,1.0,none,yes,bad
-no checking,9.0,existing paid,new car,3577.0,100<=X<500,1<=X<4,1.0,male single,guarantor,2.0,real estate,26.0,none,rent,1.0,skilled,2.0,none,no,good
-no checking,4.0,critical/other existing credit,new car,1455.0,<100,4<=X<7,2.0,male single,none,1.0,real estate,42.0,none,own,3.0,unskilled resident,2.0,none,yes,good
-0<=X<200,12.0,existing paid,radio/tv,625.0,<100,<1,4.0,male mar/wid,guarantor,1.0,real estate,26.0,bank,own,1.0,unskilled resident,1.0,none,yes,good
-no checking,15.0,existing paid,new car,3186.0,>=1000,4<=X<7,2.0,female div/dep/mar,none,3.0,car,20.0,none,rent,1.0,skilled,1.0,none,yes,good
-no checking,15.0,critical/other existing credit,new car,5045.0,no known savings,>=7,1.0,female div/dep/mar,none,4.0,car,59.0,none,own,1.0,skilled,1.0,yes,yes,good
-0<=X<200,30.0,existing paid,radio/tv,2991.0,no known savings,>=7,2.0,female div/dep/mar,none,4.0,car,25.0,none,own,1.0,skilled,1.0,none,yes,good
-0<=X<200,18.0,delayed previously,business,2427.0,no known savings,>=7,4.0,male single,none,2.0,life insurance,42.0,none,own,2.0,skilled,1.0,none,yes,good
-0<=X<200,12.0,critical/other existing credit,new car,3124.0,<100,<1,1.0,male single,none,3.0,real estate,49.0,bank,own,2.0,unskilled resident,2.0,none,yes,good
-0<=X<200,6.0,existing paid,radio/tv,368.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,38.0,none,own,1.0,skilled,1.0,none,yes,good
-0<=X<200,18.0,critical/other existing credit,furniture/equipment,1295.0,<100,<1,4.0,female div/dep/mar,none,1.0,life insurance,27.0,none,own,2.0,skilled,1.0,none,yes,good
+CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited,Complain,Satisfaction Score,Card Type,Point Earned
+15765311,Zhirov,642,Spain,Male,34,8,0.0,1,1,0,72085.1,0,0,3,GOLD,323
+15704466,Udokamma,692,France,Female,34,7,0.0,2,1,0,195074.62,0,0,1,DIAMOND,427
+15573045,Earl,547,France,Male,62,10,127738.75,2,1,1,85153.0,0,0,4,GOLD,666
+15596761,Hawdon,515,Germany,Male,60,9,113715.36,1,1,0,18424.24,1,1,1,GOLD,850
+15588622,Marchesi,599,Germany,Male,25,7,108380.72,1,1,1,79005.95,0,0,1,SILVER,933
+15685309,Souter,669,France,Female,35,7,0.0,1,1,1,49108.23,1,1,1,SILVER,335
+15602841,Lockett,794,Spain,Female,28,5,0.0,2,0,1,86699.98,0,0,3,DIAMOND,734
+15642997,Uspenskaya,655,France,Female,36,2,147149.59,1,1,1,87816.86,0,0,5,GOLD,680
+15778526,Bradshaw,719,Spain,Female,48,5,0.0,2,0,0,78563.66,0,0,4,GOLD,922
+15773487,Conway,634,Germany,Female,31,8,76798.92,1,0,0,196021.73,0,0,4,DIAMOND,373
+15661380,Walker,682,France,Male,69,6,0.0,2,0,1,149604.18,0,0,2,PLATINUM,547
+15573309,Ward,626,Spain,Female,48,2,0.0,2,1,1,95794.98,0,0,3,DIAMOND,682
+15614103,Colombo,850,Germany,Male,42,8,119839.69,1,0,1,51016.02,1,1,2,GOLD,303
+15801863,Marino,521,France,Female,32,2,136555.01,2,1,1,129353.21,0,0,1,DIAMOND,577
+15734246,She,746,France,Female,21,8,166883.07,2,0,1,194563.65,0,0,3,GOLD,261
+15671104,Aksakova,637,Spain,Male,43,3,172196.23,1,1,1,104769.96,0,0,4,GOLD,550
+15787693,Kharlamov,559,Spain,Male,38,3,145874.35,1,1,0,56311.39,1,1,2,SILVER,707
+15613326,Gow,596,France,Female,33,1,138162.81,1,1,0,85412.54,0,0,2,DIAMOND,776
+15713983,Mao,780,Germany,Male,34,5,94108.54,2,1,0,177235.21,0,0,5,PLATINUM,581
+15804709,Watt,688,Germany,Male,35,5,111578.18,1,0,0,166165.93,1,1,1,PLATINUM,384
+15661734,Taylor,608,Germany,Male,42,8,131390.75,2,1,0,71178.09,0,0,1,SILVER,246
+15664808,Nicoll,790,Spain,Female,37,3,0.0,3,0,0,98897.32,0,0,3,PLATINUM,772
+15576065,Sims,731,Spain,Female,40,5,171325.98,1,1,1,159718.27,1,1,2,SILVER,964
+15764105,Milne,475,France,Female,57,1,0.0,2,1,0,89248.99,0,0,2,GOLD,372
+15708791,Abazu,584,Spain,Male,32,9,85534.83,1,0,0,169137.24,0,0,5,PLATINUM,226
+15797900,Chinomso,517,France,Male,56,9,142147.32,1,0,0,39488.04,1,1,3,PLATINUM,727
+15799626,Donaghy,637,Germany,Male,50,4,126345.55,1,0,1,17323.0,1,1,3,PLATINUM,683
+15647965,Genovese,477,France,Female,57,9,114023.64,2,1,1,71167.17,1,1,3,GOLD,523
+15569945,Horsley,509,Spain,Male,29,1,0.0,2,1,0,69113.14,0,0,2,DIAMOND,321
+15571928,Fraser,679,France,Female,43,4,0.0,3,1,0,115136.51,1,1,2,DIAMOND,961
+15724838,Moretti,599,France,Female,43,4,0.0,1,1,0,170347.1,0,0,5,PLATINUM,550
+15596212,Yang,781,Spain,Male,35,1,0.0,2,0,0,42117.9,0,0,1,PLATINUM,423
+15687153,Graham,850,Germany,Male,49,8,98649.55,1,1,0,119174.88,1,1,5,PLATINUM,568
+15615020,Nnaife,595,Germany,Female,41,9,150463.11,2,0,1,81548.38,0,0,3,PLATINUM,406
+15581700,Paterson,615,Germany,Male,43,3,86920.86,1,1,1,150048.37,0,0,1,DIAMOND,579
+15676433,Allan,707,France,Female,36,6,0.0,1,0,0,98810.78,0,0,3,PLATINUM,552
+15606613,Samson,655,France,Female,59,7,0.0,1,1,0,88958.49,1,1,4,DIAMOND,716
+15679148,Oliver,508,France,Male,44,3,115451.05,2,0,0,67234.33,0,0,5,GOLD,654
+15644446,Norton,672,France,Female,28,6,0.0,1,0,1,8814.69,0,0,3,PLATINUM,629
+15728352,Yermakov,623,France,Male,27,4,120509.81,1,0,0,142170.44,0,0,2,GOLD,408
+15711386,Trentini,724,France,Female,29,6,0.0,2,0,1,64729.51,0,0,5,SILVER,957
+15794916,Pirogov,725,France,Male,41,7,113980.21,1,1,1,116704.25,0,0,4,DIAMOND,240
+15719579,McIntosh,670,Germany,Female,33,9,84521.48,2,0,1,198017.05,0,0,4,SILVER,430
+15729599,Lorenzo,804,Spain,Male,33,7,76548.6,1,0,1,98453.45,0,0,2,GOLD,994
+15733247,Stevenson,850,France,Male,33,10,0.0,1,1,0,4861.72,1,1,1,SILVER,359
+15761606,Law,617,Spain,Female,37,9,101707.8,1,1,0,123866.28,0,0,5,GOLD,425
+15670103,Dickinson,565,France,Female,38,5,126645.13,1,1,1,168303.55,0,0,1,DIAMOND,366
+15680901,Potter,652,France,Female,34,6,97435.85,2,1,1,104331.76,0,0,5,SILVER,604
+15682576,Onyenachiya,763,France,Male,67,1,149436.73,2,0,1,106282.74,0,0,3,GOLD,340
+15745001,Kovalev,683,Spain,Female,36,7,0.0,2,1,0,104786.59,0,0,2,GOLD,381
+15742480,Igwebuike,775,Germany,Male,36,2,109949.05,2,0,1,71682.54,0,0,1,GOLD,826
+15623712,Coates,453,Spain,Female,42,5,0.0,3,1,0,83008.49,1,1,1,GOLD,791
+15643826,McKay,503,France,Male,32,4,0.0,2,1,1,153036.97,0,0,1,SILVER,304
+15698664,Liang,567,Spain,Male,43,2,115643.58,2,0,0,174606.35,0,0,2,DIAMOND,754
+15733032,Butler,651,Spain,Male,47,2,0.0,2,1,1,119808.64,0,0,5,PLATINUM,758
+15613962,Kenechi,499,France,Female,38,9,0.0,2,0,1,183042.2,0,0,2,GOLD,642
+15674526,Byrne,725,France,Male,66,4,86459.8,1,1,1,141476.56,0,0,5,DIAMOND,279
+15732281,Ugoji,680,Germany,Male,34,6,146422.22,1,1,0,67142.97,1,1,3,GOLD,870
+15792989,Bianchi,543,France,Female,71,1,104308.77,1,1,1,25650.04,0,0,5,DIAMOND,710
+15655658,Bulgakov,678,France,Female,48,2,0.0,2,1,1,32301.88,0,0,2,GOLD,870
+15656263,Teng,764,Spain,Male,29,5,0.0,2,1,0,65868.28,0,0,4,DIAMOND,275
+15716994,Green,559,Spain,Male,24,3,114739.92,1,1,0,85891.02,1,1,4,SILVER,327
+15773723,Duncan,588,Spain,Female,22,9,67178.19,1,1,1,163534.75,1,1,2,SILVER,728
+15589493,Otitodilinna,716,Germany,Male,27,1,122552.34,2,1,0,67611.36,0,0,5,GOLD,475
+15609998,Okwudilichukwu,700,Germany,Female,59,5,137648.41,1,1,0,142977.05,1,1,2,PLATINUM,839
+15611767,Mai,624,Germany,Female,52,0,133723.43,1,0,0,4859.59,1,1,5,SILVER,500
+15672516,Wall,541,Germany,Male,51,7,90373.28,2,1,0,179861.79,0,0,4,PLATINUM,935
+15743193,Olson,644,France,Male,37,6,117271.8,2,1,0,104217.96,1,1,5,PLATINUM,949
+15604119,Alderete,850,Spain,Male,35,7,110349.82,1,0,0,126355.8,0,0,2,PLATINUM,445
+15582714,Napolitani,749,Germany,Male,47,9,110022.74,1,0,1,135655.29,1,1,3,GOLD,634
+15797160,Glover,492,France,Female,49,8,0.0,1,1,1,182865.09,1,1,5,PLATINUM,485
+15658982,Napolitani,650,Germany,Female,28,5,122034.4,3,0,1,146663.43,1,1,4,DIAMOND,240
+15803352,Scott,613,Germany,Male,33,3,155736.42,2,1,1,57751.21,0,0,4,PLATINUM,633
+15727857,Flynn,635,Spain,Male,41,1,0.0,2,1,0,175611.5,0,0,2,GOLD,796
+15777994,Woods,718,France,Female,39,3,0.0,2,1,1,145355.11,0,0,2,PLATINUM,709
+15781307,Schneider,779,Germany,Male,37,7,120092.52,2,1,0,135925.72,0,0,1,GOLD,466
+15689322,Bevan,641,Spain,Male,31,3,153316.14,1,1,0,59927.99,0,0,4,DIAMOND,667
+15798850,Goddard,576,France,Male,32,7,0.0,2,1,0,4660.91,0,0,5,PLATINUM,722
+15677387,Folliero,749,Germany,Female,33,10,76692.22,1,0,1,30396.43,0,0,3,SILVER,567
+15576714,Manna,687,Spain,Female,21,8,0.0,2,1,1,154767.34,0,0,5,PLATINUM,449
+15582168,Muravyova,713,Germany,Female,61,4,149525.34,2,1,0,123663.63,0,0,2,SILVER,798
+15605293,McKay,559,France,Female,43,1,0.0,2,1,1,196645.87,0,0,2,DIAMOND,701
+15626452,Beatham,711,Spain,Male,32,5,0.0,2,1,1,147720.27,0,0,2,DIAMOND,521
+15729954,Azuka,586,France,Female,28,5,0.0,3,1,0,170487.4,1,1,2,PLATINUM,471
+15694408,Lung,749,France,Male,40,1,139290.41,1,1,0,182855.42,1,1,1,SILVER,381
+15800061,Moretti,495,Spain,Female,45,3,89158.94,3,1,0,135169.76,1,1,1,PLATINUM,284
+15703778,Hughes,728,France,Male,33,8,129907.63,1,0,1,36083.96,0,0,2,GOLD,913
+15694395,Ts'ui,620,France,Female,29,1,138740.24,2,0,0,154700.61,0,0,2,SILVER,271
+15662571,Maclean,639,France,Male,35,8,0.0,2,1,0,170483.9,0,0,3,DIAMOND,441
+15677906,Owens,637,Spain,Female,54,5,0.0,1,0,1,150836.98,0,0,2,PLATINUM,259
+15630592,Sanders,516,France,Female,45,4,0.0,1,1,0,95273.73,1,1,5,SILVER,255
+15782468,Hart,850,Spain,Male,51,3,109799.55,2,1,1,12457.76,1,1,3,PLATINUM,974
+15578211,Connolly,777,France,Male,23,6,0.0,2,1,1,163225.48,0,0,4,PLATINUM,605
+15658100,Piccio,695,France,Female,42,0,0.0,2,0,1,140724.64,0,0,1,PLATINUM,875
+15638610,Kennedy,635,Germany,Female,65,5,117325.54,1,1,0,155799.86,1,1,3,PLATINUM,958
+15573628,Greene,751,Germany,Female,51,7,148074.79,1,1,0,146411.41,1,1,5,SILVER,518
+15636562,Muravyova,573,Spain,Male,44,8,0.0,2,0,0,62424.46,0,0,1,DIAMOND,547
+15661723,Abramovich,667,Spain,Male,71,4,137260.78,1,0,1,94433.08,1,1,2,DIAMOND,915
+15771000,Powell,684,France,Male,38,4,0.0,3,1,0,75609.84,0,0,2,DIAMOND,379
+15794204,Manna,687,France,Male,28,7,108116.66,1,1,1,27411.19,0,0,3,PLATINUM,387
+15684269,Gray,707,Spain,Female,35,3,56674.48,1,1,0,17987.4,1,1,4,DIAMOND,845
+15736495,Jackson,712,France,Male,34,8,114088.32,1,1,0,92794.61,0,0,4,DIAMOND,319
+15769829,Cheng,534,Spain,Male,51,3,0.0,2,0,1,20856.31,0,0,5,GOLD,253
+15702788,Gadsdon,775,France,Male,40,9,126212.64,1,1,0,70196.57,0,0,3,DIAMOND,262
+15683027,Chang,570,Germany,Male,29,4,122028.65,2,1,1,173792.77,0,0,3,GOLD,456
+15706647,Jordan,761,France,Male,31,7,0.0,3,1,1,166698.18,0,0,5,GOLD,753
+15713043,Siciliani,691,France,Female,33,6,0.0,2,1,1,100408.31,0,0,2,DIAMOND,467
+15649450,Repina,805,Germany,Male,24,6,143221.35,2,1,0,186035.72,0,0,5,DIAMOND,545
+15783097,Lombardo,813,Germany,Male,27,6,111348.15,1,1,0,46422.46,0,0,1,SILVER,822
+15587640,Rowntree,718,France,Female,43,0,93143.39,1,1,0,167554.86,0,0,3,DIAMOND,491
+15785815,Toscano,670,Germany,Male,31,1,142631.54,2,1,1,175894.24,0,0,1,SILVER,804
+15723217,Cremonesi,616,France,Male,37,9,0.0,1,1,0,111312.96,0,0,5,PLATINUM,239
+15765375,Butusov,797,France,Female,46,8,0.0,1,0,0,162668.33,0,0,5,SILVER,968
+15810218,Sun,610,Spain,Male,29,9,0.0,3,0,1,83912.24,0,0,5,SILVER,691
+15646594,Ali,749,France,Male,41,5,57568.94,1,1,1,61128.29,0,0,3,PLATINUM,923
+15577423,Mosley,627,Germany,Female,39,5,124586.93,1,1,0,93132.61,1,1,2,DIAMOND,265
+15588928,Maslow,704,France,Male,47,5,0.0,2,1,1,145338.61,0,0,4,GOLD,308
+15680224,Ross,687,France,Female,26,6,0.0,2,1,1,32909.13,0,0,2,SILVER,257
+15683524,Tobenna,660,Germany,Female,23,6,166070.48,2,0,0,90494.72,0,0,4,GOLD,313
+15734005,Mazzi,633,France,Female,42,1,0.0,2,1,0,56865.62,0,0,2,SILVER,930
+15764174,Bidencope,612,Spain,Female,26,4,0.0,2,1,1,179780.74,0,0,2,GOLD,516
+15610156,Ma,637,France,Male,40,2,133463.1,1,0,1,93165.34,0,0,1,PLATINUM,374
+15779985,Lo,750,Germany,Female,37,1,133199.71,2,1,1,27366.77,0,0,4,PLATINUM,959
+15660980,Cairns,597,Spain,Male,38,6,115702.67,2,1,1,25059.05,0,0,4,DIAMOND,486
+15578648,Marino,543,Germany,Male,49,6,59532.18,1,1,0,104253.56,0,0,3,SILVER,301
+15745355,Golibe,597,France,Male,41,4,153198.23,1,1,1,92090.36,0,0,1,DIAMOND,342
+15592412,Sun,713,Germany,Male,45,4,131038.14,1,1,0,74005.04,1,1,2,GOLD,495
+15678916,Kelly,512,France,Female,75,2,0.0,1,1,0,123304.62,0,0,3,GOLD,355
+15749068,Nickson,632,France,Female,40,9,139625.34,1,1,0,93702.96,1,1,5,DIAMOND,709
+15603741,MacDonnell,719,Spain,Male,40,4,128389.12,1,1,1,176091.31,0,0,1,DIAMOND,979
+15671609,Ibeabuchi,701,France,Male,44,7,0.0,2,1,0,23425.78,0,0,3,SILVER,482
+15588461,Cremonesi,686,France,Male,35,4,0.0,1,1,0,8816.37,0,0,2,GOLD,656
+15589698,De Luca,555,Germany,Male,42,6,107104.5,1,1,1,41304.44,1,1,4,PLATINUM,824
+15765014,Mai,547,France,Female,48,1,179380.74,2,0,1,69263.1,0,0,3,DIAMOND,672
+15751593,Fraser,570,Germany,Male,35,6,85668.59,1,1,0,105525.36,0,0,5,SILVER,448
+15760825,Fraser,604,France,Female,40,1,0.0,2,1,0,123207.17,0,0,1,PLATINUM,940
+15763148,Stanley,576,France,Male,39,9,84719.98,1,0,0,191063.36,0,0,5,GOLD,724
+15640905,Vasin,579,Spain,Female,35,1,129490.36,2,0,1,8590.83,1,1,4,GOLD,247
+15592736,Lucchese,551,Germany,Male,54,5,102994.04,1,1,0,176680.16,1,1,2,DIAMOND,289
+15603846,Fang,711,Spain,Male,37,2,0.0,2,1,0,83978.86,1,1,4,GOLD,407
+15808044,Ts'ui,580,France,Female,65,9,106804.26,3,1,0,107890.69,1,1,3,GOLD,950
+15572461,Kung,663,Germany,Female,29,4,102714.65,2,0,0,21170.81,0,0,4,PLATINUM,368
+15604536,Vachon,850,Germany,Female,31,4,164672.66,1,0,1,61936.1,0,0,1,PLATINUM,519
+15768104,Wright,788,Spain,Male,37,8,141541.25,1,0,0,66013.27,0,0,4,DIAMOND,582
+15751710,Ginikanwa,729,Spain,Male,31,8,164870.81,2,1,1,9567.39,0,0,4,PLATINUM,249
+15598695,Fields,834,Germany,Female,68,9,130169.27,2,0,1,93112.2,0,0,5,GOLD,882
+15571144,Ives,655,France,Male,28,10,0.0,2,0,1,126565.21,0,0,2,SILVER,315
+15713346,Panina,794,France,Male,24,10,146126.75,1,1,1,88992.05,0,0,1,GOLD,431
+15652789,Hancock,657,Spain,Male,40,10,0.0,2,1,1,52990.7,0,0,3,GOLD,724
+15598574,Uwakwe,695,Spain,Female,31,5,0.0,2,0,1,13998.88,0,0,3,GOLD,583
+15765806,Wu,492,France,Male,29,1,144591.96,1,1,1,196293.76,0,0,3,SILVER,251
+15750458,Hawkins,693,France,Female,39,4,0.0,2,0,1,142331.39,0,0,1,PLATINUM,550
+15578098,Jamieson,600,France,Male,31,8,0.0,2,1,1,121555.51,0,0,2,GOLD,930
+15713517,Otitodilinna,529,France,Male,39,6,102025.08,2,1,0,12351.01,0,0,1,SILVER,540
+15632365,Booth,542,Germany,Male,33,8,142871.27,2,0,0,77737.86,0,0,1,GOLD,888
+15764314,Reilly,550,Germany,Male,36,2,113877.23,2,1,0,174921.91,0,0,5,DIAMOND,980
+15605072,Douglas,638,France,Female,43,3,145860.98,1,1,1,142763.51,1,1,3,GOLD,578
+15592389,H?,684,France,Male,27,2,134603.88,1,1,1,71725.73,0,0,3,GOLD,342
+15796231,Nwankwo,681,France,Female,18,1,98894.39,1,1,1,9596.4,0,0,1,GOLD,553
+15697460,Lai,596,Germany,Male,34,4,99441.21,2,0,1,4802.27,0,0,1,GOLD,873
+15732774,Marchesi,656,France,Male,37,7,112291.34,1,1,0,153157.97,0,0,5,SILVER,722
+15750447,Ozoemena,678,France,Female,60,10,117738.81,1,1,0,147489.76,1,1,4,DIAMOND,599
+15575748,Conti,809,France,Male,36,9,68881.59,2,0,1,109135.11,0,0,5,DIAMOND,795
+15791452,Dann,675,France,Male,39,1,0.0,2,1,0,153129.22,0,0,1,DIAMOND,791
+15773013,Uvarov,633,France,Female,47,0,0.0,1,1,1,6342.84,1,1,3,GOLD,350
+15639252,Shao,603,Spain,Male,30,6,129548.5,2,1,1,19282.85,0,0,2,SILVER,553
+15793881,Mitchell,721,France,Female,35,6,118273.83,1,0,1,3086.89,0,0,3,GOLD,804
+15613854,Mauldon,622,Spain,Female,46,4,107073.27,2,1,1,30984.59,1,1,3,GOLD,299
+15683930,Ch'iu,593,Germany,Female,32,9,134096.53,2,1,0,53931.05,1,1,3,DIAMOND,620
+15693690,Iweobiegbunam,574,Spain,Male,52,7,115532.52,1,1,0,196257.67,0,0,3,GOLD,625
+15642515,Arcuri,620,France,Female,42,1,0.0,2,0,1,65565.92,0,0,2,PLATINUM,615
+15604482,Chiemezie,850,Spain,Male,30,2,141040.01,1,1,1,5978.2,0,0,2,DIAMOND,615
+15738148,Clarke,465,France,Female,51,8,122522.32,1,0,0,181297.65,1,1,5,SILVER,828
+15574830,Townsley,633,Germany,Male,58,2,128137.42,2,1,0,147635.33,1,1,4,PLATINUM,681
+15751412,Harvey,704,France,Male,36,3,114370.41,1,0,1,66810.48,0,0,3,PLATINUM,268
+15766906,Salier,742,France,Female,25,4,132116.13,2,1,0,129933.5,0,0,1,DIAMOND,233
+15596013,Akhtar,694,Germany,Female,58,1,143212.22,1,0,0,102628.56,1,1,4,DIAMOND,323
+15745433,Conti,716,Germany,Female,30,2,205770.78,2,0,0,65464.66,0,0,2,GOLD,764
+15627741,Heath,631,Germany,Female,29,2,96863.52,2,1,1,31613.35,0,0,3,DIAMOND,958
+15645095,Huang,674,France,Female,28,3,0.0,1,1,0,51536.99,0,0,5,PLATINUM,409
+15578156,Anenechukwu,615,Spain,Male,32,5,138521.83,1,1,1,56897.1,0,0,3,SILVER,777
+15583548,Harrison,525,Spain,Female,47,6,118560.0,1,1,0,82522.61,1,1,4,PLATINUM,375
+15673584,Bell,652,France,Female,74,5,0.0,2,1,1,937.15,0,0,5,GOLD,286
+15654229,O'Neill,699,Spain,Male,47,1,0.0,2,0,1,30117.44,0,0,3,SILVER,788
+15601263,Young,493,Spain,Female,48,7,0.0,2,1,0,48545.1,0,0,3,SILVER,592
+15697042,Genovesi,738,Spain,Male,35,8,127290.61,1,1,0,16081.62,0,0,2,SILVER,620
+15566030,Tu,497,Germany,Male,41,5,80542.81,1,0,0,88729.22,1,1,2,PLATINUM,334
+15730150,Otutodilichukwu,540,Spain,Male,37,0,120825.7,1,1,0,28257.89,0,0,2,GOLD,540
+15708693,Sherman,759,France,Female,33,2,0.0,2,1,0,56583.88,0,0,1,SILVER,428
+15576990,Taplin,790,Germany,Female,25,5,152885.77,1,1,0,58214.79,0,0,4,SILVER,938
+15663883,Hansen,850,Germany,Male,32,9,141827.33,2,1,1,149458.73,0,0,2,PLATINUM,295
+15764708,Chiabuotu,572,France,Male,30,6,117696.67,1,1,0,100843.82,0,0,4,DIAMOND,748
+15612465,Siciliano,684,Spain,Male,34,9,100628.0,2,1,1,190263.78,0,0,2,PLATINUM,451
+15794472,Brookes,553,France,Female,27,3,0.0,2,0,0,159800.16,0,0,5,GOLD,300
+15745716,McGregor,706,Spain,Male,53,7,0.0,2,0,1,117939.17,0,0,2,DIAMOND,840
+15754919,Nwebube,773,France,Female,40,10,0.0,2,0,1,69303.15,0,0,3,PLATINUM,826
+15811588,Eluemuno,664,Spain,Female,53,7,187602.18,1,1,0,186392.99,1,1,2,SILVER,712
+15786200,Brock,564,France,Male,31,4,0.0,2,1,0,53520.03,0,0,4,PLATINUM,363
+15698749,He,626,Germany,Female,23,6,85897.95,1,1,0,109742.8,0,0,2,SILVER,906
+15756901,Ch'ang,641,France,Female,26,4,91547.84,2,0,1,28157.34,0,0,2,PLATINUM,712
+15765283,Wenz,624,Germany,Female,40,3,149961.99,2,1,0,104610.86,0,0,2,PLATINUM,576
+15575694,Yobachukwu,729,Spain,Female,45,7,91091.06,2,1,0,71133.12,0,0,1,PLATINUM,632
+15652169,Buckley,642,France,Male,35,2,133161.95,1,0,1,122254.86,0,0,3,GOLD,460
+15609545,Azubuike,548,France,Male,29,5,83442.98,1,0,1,177017.39,0,0,3,GOLD,967
+15649033,Echezonachukwu,603,Germany,Female,55,7,127723.25,2,1,0,139469.11,1,1,4,SILVER,301
+15763381,Chan,496,France,Male,30,0,90963.49,1,0,1,27802.0,0,0,3,DIAMOND,333
+15673020,Smith,678,France,Female,49,3,204510.94,1,0,1,738.88,1,1,2,SILVER,810
+15589754,Malloy,652,Germany,Male,45,2,151421.44,1,0,1,115333.43,0,0,2,GOLD,388
+15793042,Sung,629,France,Male,39,2,129669.32,2,1,0,82774.07,0,0,4,DIAMOND,716
+15621083,Douglas,698,France,Male,57,6,136325.48,2,1,1,72549.27,1,1,2,DIAMOND,687
+15698932,Groves,756,Germany,Male,44,10,137452.09,1,1,0,189543.9,0,0,5,PLATINUM,965
+15654562,Ma,850,Spain,Female,45,5,174088.3,4,1,0,5669.31,1,1,1,GOLD,240
+15605425,Chia,545,Germany,Female,44,2,127536.44,1,1,0,108398.63,0,0,5,PLATINUM,320
+15693322,Shaver,635,Germany,Female,37,9,146748.07,1,0,1,11407.58,0,0,1,SILVER,219
+15593280,Yuryeva,614,Germany,Male,43,8,140733.74,1,1,1,166588.76,0,0,2,DIAMOND,912
+15581295,Ch'ien,617,Spain,Female,45,1,0.0,1,1,0,143298.06,0,0,4,DIAMOND,323
+15734970,White,835,Spain,Male,38,7,86824.09,1,0,0,175905.97,0,0,2,GOLD,348
+15717893,Briggs,607,Germany,Male,36,8,143421.74,1,1,0,97879.02,0,0,1,SILVER,641
+15580701,Ma,712,France,Male,33,3,153819.58,1,1,0,79176.09,1,1,3,GOLD,942
+15597930,Wilson,646,France,Male,52,8,59669.43,1,0,0,172495.81,1,1,3,SILVER,374
+15676810,Jen,561,France,Female,31,1,81480.27,2,1,1,65234.6,0,0,1,DIAMOND,666
+15613085,Ibrahimova,628,Spain,Female,33,3,0.0,1,1,1,188193.25,0,0,4,GOLD,240
+15756241,Yirawala,767,France,Female,44,2,152509.25,1,1,1,136915.15,0,0,4,GOLD,777
+15613699,Schnaars,430,France,Female,60,7,73937.02,1,1,0,161937.62,1,1,4,PLATINUM,578
+15657107,Angelo,563,Spain,Female,46,8,106171.68,1,1,0,163145.5,1,1,3,GOLD,672
+15659100,Lane,605,France,Male,33,9,128152.82,1,0,0,147822.81,0,0,1,DIAMOND,432
+15697678,Maxwell,590,Germany,Male,36,6,92340.69,2,1,1,174667.58,0,0,5,PLATINUM,770
+15728683,Lombardo,742,France,Male,27,0,0.0,2,0,1,131534.96,0,0,1,GOLD,905
+15784736,Jamieson,562,France,Male,45,6,136855.24,1,1,0,46864.0,0,0,4,SILVER,942
+15621195,Ch'eng,619,Germany,Male,41,3,147974.16,2,1,0,170518.83,0,0,3,PLATINUM,699
+15747960,Eluemuno,733,France,Male,33,3,0.0,1,1,1,7666.73,0,0,1,SILVER,855
+15646942,Meng,786,Spain,Female,39,7,0.0,2,0,0,100929.59,0,0,3,SILVER,958
+15789557,Howell-Price,817,Germany,Female,27,7,129810.6,1,1,1,59259.44,0,0,5,SILVER,675
+15783691,Hargreaves,722,Spain,Female,35,1,120171.58,1,1,0,125240.8,0,0,2,SILVER,324
+15752488,Emery,733,Spain,Female,31,9,102289.85,1,1,1,115441.66,0,0,2,PLATINUM,239
+15745399,Marino,649,Spain,Female,49,2,0.0,1,1,0,84863.85,1,1,3,DIAMOND,226
+15651264,Yobanna,850,Germany,Male,51,4,124425.99,1,0,0,118545.49,1,1,1,GOLD,950
+15626474,Onyemere,686,France,Female,31,1,0.0,2,1,0,4802.25,0,0,2,PLATINUM,522
+15794276,Steele,588,France,Female,64,3,0.0,1,1,1,189703.65,0,0,4,SILVER,286
+15605134,Bond,617,France,Female,34,0,131244.65,2,1,0,183229.02,0,0,5,DIAMOND,933
+15622993,Boyd,709,Germany,Male,28,8,124695.72,2,1,0,145251.35,0,0,3,DIAMOND,665
+15722632,Dickson,716,Germany,Male,50,2,119655.77,1,1,1,12944.17,1,1,4,PLATINUM,496
+15700383,Uvarova,763,France,Female,35,7,115651.6,2,1,1,104706.29,0,0,4,DIAMOND,231
+15660147,Dore,493,Spain,Male,32,8,46161.18,1,1,1,79577.4,0,0,2,GOLD,606
+15725665,Lo,679,France,Male,47,10,198546.1,2,1,0,191198.92,1,1,5,SILVER,694
+15775433,Tang,666,Germany,Male,71,1,53013.29,2,1,1,112222.64,0,0,1,GOLD,419
+15649160,Vavilov,554,France,Female,38,3,138731.95,1,1,1,194138.36,0,0,5,DIAMOND,922
+15769596,Yen,710,Germany,Female,24,2,110407.44,2,0,0,15832.43,1,1,4,SILVER,993
+15722845,Meldrum,665,Spain,Male,29,1,182781.74,2,1,1,63732.9,0,0,4,GOLD,943
+15687913,Mai,501,Germany,Female,34,7,93244.42,1,0,1,199805.63,0,0,2,PLATINUM,354
+15636388,Abrego,702,Germany,Female,23,7,98775.23,1,1,0,114603.96,0,0,5,GOLD,291
+15746203,Hsia,555,Germany,Male,62,4,119817.33,1,0,1,43507.1,1,1,2,GOLD,697
+15707007,Onio,743,France,Female,39,8,0.0,1,1,0,94263.44,0,0,3,PLATINUM,296
+15803682,Angelo,651,Germany,Female,37,10,117791.06,2,1,1,75837.58,0,0,2,GOLD,276
+15622461,Ndubuagha,562,France,Female,51,7,122822.0,2,0,0,32626.21,0,0,3,GOLD,461
+15681316,Tai,681,France,Female,41,0,120549.29,2,1,0,175722.31,0,0,5,SILVER,257
+15799710,Wei,739,France,Male,37,7,104960.46,1,0,1,80883.82,0,0,5,SILVER,384
+15706904,Robertson,750,France,Male,43,6,113882.31,1,1,1,74564.41,0,0,5,SILVER,526
+15794849,Aitken,850,Germany,Male,22,7,91560.58,2,0,0,10541.38,0,0,1,GOLD,713
+15672894,McCawley,625,France,Female,36,8,129944.39,2,0,0,198914.8,0,0,1,DIAMOND,991
+15803764,Stanley,561,France,Male,28,7,0.0,2,1,0,7797.01,0,0,5,PLATINUM,933
+15791501,Carroll,590,France,Male,43,8,0.0,2,1,1,143628.31,0,0,2,SILVER,363
+15722409,Ritchie,693,Spain,Male,47,8,107604.66,1,1,1,80149.27,0,0,5,SILVER,446
+15807167,Konovalova,635,France,Male,42,1,146766.72,2,0,1,164357.1,0,0,1,SILVER,843
+15654463,Moore,841,France,Male,34,4,0.0,2,1,0,141582.66,0,0,3,DIAMOND,572
+15637461,Ukaegbunam,758,France,Male,35,7,0.0,2,1,0,77951.84,0,0,3,DIAMOND,560
+15744529,Chiekwugo,510,France,Male,63,8,0.0,2,1,1,115291.86,0,0,2,SILVER,960
+15613292,Ch'eng,715,France,Male,21,8,0.0,2,1,0,68666.63,0,0,2,PLATINUM,827
+15665077,Vogel,598,France,Female,43,5,0.0,3,1,1,100722.72,1,1,1,SILVER,858
+15765345,Wood,753,France,Male,35,4,0.0,2,1,1,106303.4,0,0,2,GOLD,759
+15636330,Ch'in,588,Germany,Female,48,1,143279.58,2,1,0,31580.8,1,1,2,PLATINUM,914
+15706170,Onyemere,636,France,Male,34,1,84055.43,1,0,0,37490.84,0,0,2,DIAMOND,934
+15575498,Gould,705,France,Female,39,5,149379.66,2,1,0,96075.55,0,0,2,PLATINUM,444
+15583278,Greece,743,Spain,Female,36,8,92716.96,1,1,1,33693.78,0,0,5,SILVER,338
+15618926,Nwachukwu,520,Spain,Male,43,7,0.0,2,1,1,36202.74,0,0,1,PLATINUM,357
+15679429,Bell,694,France,Male,32,0,91956.49,1,1,1,59961.81,0,0,4,SILVER,858
+15724336,Yates,513,Germany,Female,49,5,171601.27,1,1,0,126223.84,0,0,3,PLATINUM,844
+15580366,Okechukwu,566,Germany,Male,54,4,118614.6,2,1,1,172601.62,0,0,3,SILVER,572
+15573319,Azubuike,493,Germany,Female,35,8,178317.6,1,0,0,197428.64,0,0,1,SILVER,738
+15763274,Wu,661,France,Male,48,3,120320.54,1,0,0,96463.25,0,0,5,PLATINUM,727
+15601569,Ndubueze,598,France,Female,40,2,171178.25,1,1,0,137980.58,1,1,1,SILVER,949
+15636353,Buchi,534,Spain,Male,35,4,0.0,2,0,0,9541.15,0,0,2,PLATINUM,784
+15804822,L?,805,France,Female,31,4,0.0,2,1,0,4798.12,0,0,2,PLATINUM,863
+15588248,Hs?,617,France,Female,28,0,0.0,2,1,1,7597.83,1,1,3,SILVER,922
+15598894,Holt,784,Spain,Male,38,10,122267.85,1,0,0,145759.93,0,0,5,PLATINUM,510
+15693543,McDonald,708,France,Female,33,8,0.0,2,0,1,15246.83,0,0,3,PLATINUM,304
+15611794,Galloway,526,Germany,Male,61,6,133845.28,2,1,1,45180.8,0,0,1,GOLD,592
+15697480,Menkens,731,France,Male,30,7,0.0,2,0,1,143086.09,0,0,5,DIAMOND,871
+15724402,Tyler,770,France,Female,30,8,0.0,2,1,0,100557.03,0,0,5,SILVER,417
+15632125,Blake,606,Germany,Male,45,5,63832.43,1,1,1,93707.8,0,0,5,SILVER,940
+15679818,Yuan,636,Germany,Male,67,7,136709.35,1,0,1,66753.1,1,1,5,PLATINUM,756
+15735246,Norman,798,Spain,Female,58,9,0.0,2,0,0,119071.56,1,1,3,DIAMOND,400
+15772604,Chiemezie,578,Spain,Male,36,1,157267.95,2,1,0,141533.19,0,0,5,PLATINUM,940
+15782475,Edith,700,France,Female,42,8,0.0,2,1,1,105305.72,0,0,4,SILVER,528
+15660602,Ch'eng,464,Germany,Male,33,8,164284.72,2,1,1,3710.34,0,0,4,GOLD,406
+15574169,Trevisano,595,Germany,Female,32,0,92466.21,1,1,0,4721.3,0,0,2,PLATINUM,238
+15642098,Cox,622,Spain,Female,36,0,108960.0,2,1,0,111180.3,1,1,1,PLATINUM,532
+15680517,Sal,769,Germany,Female,34,7,137239.17,1,1,1,71379.92,1,1,2,SILVER,485
+15751297,Wilson,732,France,Male,36,5,0.0,2,1,0,161428.25,0,0,5,SILVER,279
+15785350,Austin,528,Spain,Male,23,7,104744.89,1,1,0,170262.97,0,0,5,GOLD,517
+15638028,Ifeanyichukwu,562,Germany,Male,31,4,127237.25,2,0,1,143317.42,0,0,4,DIAMOND,938
+15664759,Lamb,675,Spain,Male,32,10,0.0,2,1,0,191545.65,0,0,3,GOLD,610
+15694253,Palerma,686,France,Female,41,7,152105.57,2,0,1,132374.41,0,0,1,SILVER,665
+15619083,Yip,502,France,Female,35,6,0.0,2,1,1,80618.47,0,0,5,PLATINUM,808
+15711181,Clapp,589,France,Female,50,4,0.0,2,0,1,182076.97,0,0,4,PLATINUM,441
+15672574,Uspenskaya,850,Spain,Female,32,5,0.0,1,1,1,3830.59,0,0,2,SILVER,979
+15738835,Slater,850,Germany,Male,38,7,101985.81,2,0,0,43801.27,0,0,1,SILVER,493
+15706186,McKenzie,640,Germany,Male,33,8,81677.22,2,0,0,34925.56,0,0,2,PLATINUM,417
+15798615,Wan,850,France,Female,47,9,137301.87,1,1,0,44351.77,0,0,1,SILVER,827
+15592229,Mullan,713,France,Female,52,0,185891.54,1,1,1,46369.57,1,1,4,PLATINUM,544
+15613319,Rice,793,France,Female,33,0,0.0,1,0,0,175544.02,0,0,4,GOLD,987
+15635500,Seleznyov,605,Germany,Male,75,2,61319.63,1,0,1,186655.11,0,0,2,SILVER,470
+15780650,Biryukov,667,France,Male,40,9,0.0,1,1,1,96670.2,0,0,3,GOLD,879
+15583755,McClemans,592,Germany,Male,33,2,156570.86,1,1,1,37140.2,0,0,1,PLATINUM,376
+15586821,Bellew,727,France,Male,28,5,0.0,2,0,1,19653.08,0,0,3,GOLD,351
+15685357,Wright,750,Spain,Female,36,8,112940.07,1,0,1,9855.81,0,0,3,GOLD,447
+15719348,Tsao,513,France,Male,35,8,0.0,1,1,0,76640.29,1,1,4,GOLD,276
+15585533,Calabrese,679,France,Male,36,6,147733.64,1,0,1,172501.38,0,0,5,PLATINUM,982
+15615820,MacDonald,837,France,Male,49,8,103302.37,1,1,1,50974.57,0,0,3,PLATINUM,999
+15593782,Brookes,816,Germany,Female,38,5,130878.75,3,1,0,71905.77,1,1,4,GOLD,961
+15724563,Hawkins,752,Germany,Female,42,3,65046.08,2,0,1,140139.28,0,0,5,PLATINUM,535
+15641773,Browne,580,Germany,Male,45,2,179334.83,2,1,1,169303.65,0,0,5,SILVER,928
+15619529,Ndukaku,531,Spain,Male,27,8,132576.25,1,0,0,7222.92,0,0,5,SILVER,835
+15713426,Hancock,637,Germany,Male,30,1,122185.53,1,1,0,102566.46,1,1,2,GOLD,782
+15695846,Hawkins,684,France,Female,34,6,0.0,2,1,1,130928.22,0,0,3,SILVER,372
+15796370,Shah,604,Spain,Male,40,5,155455.43,1,0,1,113581.85,0,0,4,GOLD,742
+15612043,Hammonds,418,France,Male,36,7,90145.04,1,1,1,69157.93,0,0,5,SILVER,995
+15747358,Russell,643,Germany,Male,59,3,170331.37,1,1,1,32171.79,0,0,5,PLATINUM,838
+15649379,Somayina,850,France,Female,46,3,0.0,2,1,1,187980.21,0,0,1,PLATINUM,318
+15722583,Benjamin,636,Spain,Female,29,6,157576.47,2,1,1,101102.39,0,0,1,PLATINUM,332
+15576517,Everingham,445,Germany,Female,34,7,131082.17,2,1,1,70618.0,0,0,4,PLATINUM,802
+15691150,Ku,699,France,Female,32,4,110559.46,1,1,1,127429.56,0,0,2,SILVER,713
+15783025,Piazza,723,Germany,Male,37,3,94661.53,2,1,0,121239.65,0,0,2,SILVER,279
+15599956,Payne,747,France,Male,27,10,0.0,2,0,0,13007.89,0,0,2,PLATINUM,970
+15615832,Teague,675,Spain,Female,35,8,155621.08,1,0,1,35177.31,0,0,1,PLATINUM,977
+15713505,Harriman,554,France,Male,31,1,0.0,2,0,1,192660.55,0,0,2,PLATINUM,759
+15588090,Ferri,726,Germany,Female,51,8,107494.86,2,1,0,140937.91,1,1,2,PLATINUM,794
+15624510,Tien,696,France,Male,52,6,139781.06,1,1,0,27445.4,1,1,3,DIAMOND,457
+15716024,Dennis,660,Spain,Male,42,5,0.0,2,1,0,115509.59,0,0,5,SILVER,491
+15742297,Sinclair,715,France,Male,35,2,141005.47,1,1,1,60407.93,0,0,1,SILVER,674
+15724181,Hudson,647,Spain,Male,47,5,105603.21,2,1,1,157360.9,0,0,1,DIAMOND,364
+15764726,Kerr,563,France,Male,22,3,137583.04,1,0,1,5791.85,0,0,2,SILVER,628
+15789484,Hammond,751,Germany,Female,36,6,169831.46,2,1,1,27758.36,0,1,5,GOLD,379
+15594305,Rizzo,712,France,Female,32,1,0.0,2,1,0,1703.58,0,0,4,PLATINUM,670
+15751137,Lei,850,Germany,Female,36,3,169025.83,1,1,0,174235.06,0,0,4,GOLD,492
+15596060,Skinner,498,Spain,Male,29,8,127864.26,1,1,1,46677.9,0,0,5,SILVER,404
+15775663,Otitodilichukwu,712,Germany,Male,53,6,134729.99,2,1,1,132702.64,0,0,2,DIAMOND,856
+15791006,Kodilinyechukwu,760,Germany,Female,34,6,58003.41,1,1,0,90346.1,0,0,5,SILVER,785
+15784445,Huang,717,Spain,Male,33,1,99106.73,1,0,0,194467.23,0,0,2,GOLD,294
+15612931,Korovin,722,Spain,Female,50,4,132088.59,1,1,1,128262.14,0,0,5,DIAMOND,761
+15730353,Olisaemeka,550,Germany,Male,29,9,145294.08,2,1,0,147484.13,0,0,3,SILVER,872
+15670859,Smith,718,Germany,Female,39,7,93148.74,2,1,1,190746.38,0,0,2,DIAMOND,721
+15784676,Fanucci,583,France,Male,51,6,125268.03,2,1,0,165082.25,0,0,4,PLATINUM,837
+15734999,Stephenson,634,Spain,Male,36,2,85996.19,1,1,0,15887.68,0,0,4,SILVER,552
+15632826,Tardent,493,France,Male,38,3,134006.77,1,1,0,89578.32,0,0,5,SILVER,520
+15753847,Hawkins,645,Spain,Male,45,4,0.0,1,0,1,174916.85,1,1,5,PLATINUM,668
+15734917,Castiglione,708,Germany,Male,21,8,133974.36,2,1,0,50294.09,0,0,5,GOLD,959
+15793331,Blair,812,France,Male,32,5,133050.97,2,1,0,89385.92,0,0,2,SILVER,240
+15811486,Tang,634,Germany,Female,29,8,130036.21,2,0,1,69849.55,0,0,3,GOLD,713
+15636423,Lei,715,France,Male,40,7,0.0,1,1,1,141359.11,0,0,5,GOLD,776
+15691785,Findlay,850,France,Male,61,1,0.0,1,1,0,53067.83,1,1,2,GOLD,372
+15656592,Toscano,646,Germany,Male,48,8,169023.33,2,1,1,175657.55,0,0,4,PLATINUM,593
+15765415,King,609,Spain,Female,45,4,89122.3,1,1,1,199256.98,0,0,3,DIAMOND,573
+15657139,Otutodilinna,652,France,Female,40,8,84390.8,2,0,1,107876.2,0,0,4,SILVER,306
+15785485,Zhou,595,Germany,Female,41,2,138878.81,1,0,1,112269.67,0,0,5,SILVER,530
+15634602,Hargrave,619,France,Female,42,2,0.0,1,1,1,101348.88,1,1,2,DIAMOND,464
+15700300,Okoli,674,Germany,Female,44,4,131593.85,1,0,1,171345.02,1,1,2,GOLD,558
+15594084,Anderson,524,France,Male,22,9,0.0,2,1,0,74405.34,0,0,5,SILVER,992
+15624188,Chiu,712,France,Female,33,6,0.0,2,1,1,190686.16,0,0,5,GOLD,460
+15642824,Onyekaozulu,826,Spain,Female,56,8,174506.1,2,0,1,161802.82,1,1,3,DIAMOND,808
+15574213,Wilson,789,France,Female,53,1,158271.74,1,1,1,5036.39,1,1,1,SILVER,296
+15684592,Lamb,557,Spain,Male,42,4,0.0,2,0,1,86642.38,0,0,2,GOLD,569
+15717984,Longo,477,France,Male,47,9,144900.58,1,1,0,61315.37,1,1,4,GOLD,498
+15671390,Chukwukere,690,Spain,Male,36,10,0.0,2,1,0,55902.93,0,0,2,GOLD,876
+15726058,Cattaneo,754,Germany,Male,27,7,117578.35,2,0,1,87908.01,0,0,2,DIAMOND,662
+15664860,Chao,692,Spain,Female,47,3,0.0,2,1,0,150802.41,1,1,3,SILVER,525
+15793671,Watt,606,France,Male,34,5,0.0,1,1,0,161971.42,0,0,1,SILVER,891
+15807555,Chung,535,France,Male,45,2,0.0,2,1,0,125658.28,0,0,5,DIAMOND,430
+15636700,Marsh,701,France,Male,39,9,140236.98,1,0,1,146651.99,0,0,2,PLATINUM,342
+15656009,McIntyre,736,France,Female,36,6,0.0,1,1,0,70496.66,0,0,2,GOLD,978
+15632977,Hsiao,745,France,Male,47,5,0.0,2,0,0,145789.71,0,0,1,PLATINUM,637
+15611580,Wood,751,Spain,Male,33,4,79281.61,1,1,0,117547.76,0,0,4,GOLD,599
+15589544,Wallis,673,Spain,Female,57,4,0.0,2,1,1,49684.09,0,0,1,SILVER,428
+15716023,Pearson,693,France,Male,31,1,0.0,2,0,1,182270.88,0,0,1,SILVER,304
+15725679,Hsia,531,France,Female,47,6,0.0,1,0,0,194998.34,1,1,2,SILVER,510
+15643523,Power,710,Spain,Female,30,10,0.0,2,1,0,19500.1,0,0,5,PLATINUM,420
+15814772,Adams,645,Germany,Male,49,4,160133.88,1,0,1,88391.97,0,0,4,GOLD,720
+15650288,Summers,634,Germany,Male,35,6,116269.01,1,1,0,129964.94,0,0,1,SILVER,989
+15689288,Folliero,630,France,Female,26,5,0.0,2,1,0,182612.38,0,0,5,DIAMOND,437
+15730579,Ward,850,France,Male,68,5,169445.4,1,1,1,186335.07,0,0,4,PLATINUM,618
+15594408,Chia,584,Spain,Female,48,2,213146.2,1,1,0,75161.25,1,0,4,DIAMOND,814
+15622494,Mazzanti,718,France,Male,27,2,0.0,2,0,0,26229.24,0,0,1,PLATINUM,538
+15567246,Selwyn,684,Germany,Male,32,3,102630.13,2,1,1,127433.47,0,0,2,DIAMOND,684
+15711991,Chiawuotu,615,France,Male,30,8,0.0,2,0,0,3183.15,0,0,2,GOLD,436
+15701333,Blackburn,646,France,Female,37,7,96558.66,1,0,0,163427.18,0,0,3,PLATINUM,493
+15807595,Ijendu,485,Germany,Male,51,7,144244.59,2,1,0,51113.14,0,0,4,PLATINUM,633
+15623346,Czajkowski,820,France,Male,36,4,0.0,2,1,0,31422.69,0,0,2,SILVER,366
+15661827,Brown,693,Spain,Female,45,4,0.0,2,1,1,26589.56,0,0,5,SILVER,898
+15686983,Rohu,678,Germany,Female,25,10,76968.12,2,0,1,131501.72,0,0,1,GOLD,365
+15628144,Soares,635,France,Female,72,4,74812.84,1,0,1,27448.33,0,0,5,GOLD,627
+15668853,Menhennitt,637,Spain,Female,44,0,157622.58,1,1,1,120454.2,0,0,1,PLATINUM,879
+15728605,Hung,697,France,Male,40,4,0.0,2,0,1,26543.28,0,0,4,GOLD,360
+15645621,Hunter,811,Spain,Male,44,3,0.0,2,0,1,78439.73,0,0,5,PLATINUM,859
+15652069,Calabrese,833,France,Male,30,1,0.0,2,1,0,141860.62,0,0,5,DIAMOND,380
+15628155,Dike,410,France,Female,35,7,117183.74,1,1,1,109733.73,0,0,2,SILVER,677
+15771087,Harrison,757,France,Female,71,0,88084.13,2,1,1,154337.47,0,0,4,PLATINUM,522
+15804064,Docherty,742,France,Female,35,2,79126.17,1,1,1,126997.53,0,0,3,DIAMOND,974
+15656471,Mitchell,773,France,Male,33,9,0.0,2,1,1,1118.31,0,0,3,SILVER,289
+15771636,Marshall,793,Spain,Female,36,0,0.0,1,0,0,148993.47,0,0,2,SILVER,847
+15739168,Fowler,511,France,Female,31,5,137411.29,1,0,1,161854.98,0,0,3,PLATINUM,644
+15677336,Aitken,557,Germany,Male,57,1,120043.13,1,1,0,132370.75,1,1,1,GOLD,954
+15634950,Obiajulu,657,Germany,Male,57,8,107174.58,1,1,1,126369.55,1,1,2,SILVER,288
+15582154,Crawford,670,France,Female,45,5,47884.92,1,1,1,54340.24,0,0,5,DIAMOND,723
+15749679,Beck,699,France,Male,39,2,109724.38,1,1,1,180022.39,0,0,2,GOLD,412
+15602354,Ginikanwa,564,Germany,Male,33,3,109341.87,1,1,0,75632.78,0,0,5,SILVER,422
+15638272,Tien,609,Spain,Male,32,4,99883.16,1,1,1,120594.85,0,0,3,PLATINUM,887
+15769356,Stevenson,520,Germany,Female,23,3,116022.53,2,1,1,37577.66,0,0,1,GOLD,342
+15576623,Outlaw,584,France,Male,31,5,0.0,2,1,0,31474.27,0,0,2,PLATINUM,568
+15601848,Scott,594,France,Male,35,2,0.0,2,1,0,103480.69,0,0,4,DIAMOND,378
+15631063,Trentino,710,France,Female,33,2,0.0,2,1,0,72945.32,0,0,4,DIAMOND,221
+15619116,Wallace,493,France,Female,36,2,0.0,2,0,1,99770.3,0,0,2,PLATINUM,229
+15660871,Ch'ang,665,France,Male,28,8,137300.23,1,1,0,90174.83,0,0,4,GOLD,638
+15758775,Vasilyeva,820,Spain,Male,34,10,97208.46,1,1,1,59553.34,0,0,2,GOLD,827
+15616122,Nwokike,777,France,Male,39,8,0.0,2,1,1,18613.52,0,0,1,PLATINUM,370
+15634245,Muecke,758,Germany,Female,47,9,95523.16,1,1,0,73294.48,0,0,1,DIAMOND,810
+15762615,Campbell,597,Spain,Female,40,8,101993.12,1,0,1,94774.12,0,0,5,SILVER,681
+15740868,Pirogova,658,Germany,Female,45,9,134562.8,1,1,1,159268.67,0,0,5,DIAMOND,528
+15807909,Rubensohn,744,France,Male,47,9,0.0,2,1,0,113163.17,0,0,2,PLATINUM,743
+15703394,Hawes,633,Spain,Male,27,3,0.0,2,1,0,44008.91,0,0,1,SILVER,612
+15787071,Dulhunty,650,Spain,Male,41,9,0.0,2,0,1,191599.67,0,0,4,PLATINUM,693
+15777553,Hanson,659,France,Female,56,9,123785.24,1,1,0,99504.03,1,1,4,GOLD,928
+15713370,Hunter,657,Spain,Male,36,8,188241.05,2,0,0,183058.51,1,1,3,DIAMOND,382
+15737971,Cowen,646,France,Female,30,5,0.0,2,1,0,13935.32,0,0,3,DIAMOND,786
+15577107,Milne,657,Spain,Female,22,6,0.0,3,0,1,168412.07,1,1,5,DIAMOND,974
+15796790,Amaechi,573,France,Female,47,8,154543.98,1,1,0,29586.73,0,0,4,DIAMOND,842
+15783522,Mitchell,738,Spain,Female,37,8,100565.94,1,1,1,128799.86,0,0,3,DIAMOND,503
+15703544,Hung,559,Spain,Male,34,0,0.0,1,1,0,182988.94,0,0,3,GOLD,472
+15664498,Golovanov,508,France,Male,26,7,205962.0,1,1,0,156424.4,0,0,1,DIAMOND,954
+15698953,Hart,636,Spain,Male,36,1,0.0,3,1,1,74048.1,1,1,5,DIAMOND,244
+15743760,Davidson,850,France,Male,31,6,131996.66,2,1,1,178747.43,0,0,4,SILVER,655
+15704770,Pan,773,France,Male,25,1,124532.78,2,0,1,11723.57,0,0,4,GOLD,692
+15596992,Norris,482,Germany,Male,45,7,156353.46,1,1,0,72643.95,1,1,4,PLATINUM,647
+15710105,Stirling,581,Germany,Female,26,3,105099.45,1,1,1,184520.0,1,1,5,DIAMOND,877
+15677217,Ibragimova,705,France,Male,30,1,0.0,1,1,1,181300.32,0,0,5,SILVER,554
+15589725,Zubarev,740,France,Female,51,4,0.0,2,1,1,178929.84,0,0,4,SILVER,850
+15653315,Kang,555,Spain,Female,35,1,0.0,2,1,0,101667.0,0,0,4,SILVER,417
+15786643,Tsao,602,France,Male,32,10,0.0,2,1,1,116052.92,0,0,3,PLATINUM,592
+15780677,Jackson,717,France,Female,59,4,0.0,2,1,1,170528.63,0,0,1,DIAMOND,359
+15686219,Wan,611,France,Male,38,4,71018.6,2,1,0,2444.29,0,0,5,GOLD,824
+15627697,Alekseyeva,662,France,Male,34,2,0.0,2,0,1,21497.27,0,0,4,GOLD,892
+15724223,Bronner,545,France,Female,55,5,0.0,1,0,0,10034.77,1,1,5,DIAMOND,524
+15576256,Yusupova,582,France,Male,39,5,0.0,2,1,1,129892.93,0,0,4,DIAMOND,343
+15669326,Gordon,658,France,Male,44,2,168396.34,1,1,1,14178.73,0,0,2,SILVER,648
+15696175,Echezonachukwu,602,Germany,Male,35,7,90602.42,2,1,1,51695.41,0,1,3,GOLD,764
+15702434,Hsieh,850,France,Female,30,3,0.0,2,1,0,116692.8,0,0,5,SILVER,451
+15801699,Fishbourne,436,Spain,Male,43,5,0.0,2,1,1,35687.43,0,0,5,DIAMOND,557
+15608588,Mackinlay,563,Germany,Male,41,2,100520.92,1,1,1,19412.8,1,1,5,DIAMOND,271
+15733169,Craig,590,Spain,Male,22,7,125265.61,1,1,1,161253.08,0,0,5,PLATINUM,851
+15661409,Shen,542,France,Female,42,1,0.0,1,1,1,178256.58,1,1,2,GOLD,600
+15724834,Wilson,498,France,Female,30,1,0.0,2,0,0,135795.53,0,0,5,GOLD,371
+15785519,May,565,France,Male,36,6,106192.1,1,1,0,149575.59,0,0,5,DIAMOND,237
+15624186,McGregor,813,Germany,Female,25,5,123616.43,1,0,1,132959.33,0,0,1,GOLD,562
+15616454,Davidson,476,Germany,Female,34,8,111905.43,1,0,1,197221.81,1,1,3,PLATINUM,832
+15706602,Bates,760,Spain,Female,33,1,118114.28,2,0,1,156660.21,0,0,2,SILVER,348
+15623072,Shaw,529,Spain,Female,35,5,0.0,2,1,0,56518.0,0,0,4,DIAMOND,284
+15636935,Rischbieth,797,France,Female,29,1,0.0,2,1,1,132975.39,0,0,2,SILVER,779
+15773277,Barnes,676,France,Male,35,5,106836.67,2,1,0,84199.78,0,0,3,DIAMOND,871
+15580719,Davis,697,France,Female,23,10,0.0,2,1,1,79734.23,0,0,3,SILVER,968
+15626898,Teng,743,France,Male,30,7,77599.23,1,0,0,144407.1,0,0,5,GOLD,682
+15734202,Chidimma,660,Germany,Female,52,4,86891.84,1,1,0,90877.76,0,0,4,DIAMOND,753
+15766776,Sal,576,France,Male,41,1,0.0,1,1,1,188274.6,0,0,3,DIAMOND,999
+15761554,Blackburn,581,France,Male,54,4,89299.81,1,0,0,5558.47,1,1,4,PLATINUM,269
+15752731,Millar,615,France,Female,30,9,0.0,1,1,0,87347.82,0,0,3,SILVER,437
+15780140,Bellucci,435,Germany,Male,32,2,57017.06,2,1,1,5907.11,0,0,3,SILVER,476
+15790564,She,832,Germany,Female,40,9,107648.94,2,1,1,134638.97,0,0,2,PLATINUM,583
+15674254,Kerr,554,Spain,Female,45,4,0.0,2,1,1,193412.05,0,0,2,PLATINUM,957
+15692931,Hsing,670,France,Male,22,2,114991.45,1,1,1,37392.56,0,0,1,DIAMOND,997
+15579207,Watkins,545,France,Male,37,3,91184.01,1,1,0,105476.65,0,0,1,GOLD,276
+15706552,Odinakachukwu,533,France,Male,36,7,85311.7,1,0,1,156731.91,0,0,5,SILVER,628
+15675794,Hsing,645,Germany,Male,47,9,152076.93,1,1,0,121840.2,1,1,3,GOLD,309
+15605339,Baker,673,France,Female,37,10,0.0,2,1,1,37411.35,0,0,4,PLATINUM,450
+15691543,Lennox,558,Germany,Male,58,2,142537.18,1,1,1,88791.83,0,0,3,DIAMOND,487
+15578671,Webb,706,Spain,Female,29,1,209490.21,1,1,1,133267.69,1,1,2,DIAMOND,243
+15754574,Tomlinson,738,Spain,Male,36,5,0.0,2,1,1,96881.32,0,0,1,GOLD,856
+15702300,Walker,671,France,Male,27,5,0.0,2,0,0,120893.07,0,0,4,GOLD,962
+15777122,Esomchi,553,France,Female,31,4,0.0,2,1,1,89087.4,0,0,2,DIAMOND,393
+15570947,Bruny,615,Spain,Female,29,7,143330.56,2,1,1,126396.01,0,0,1,DIAMOND,229
+15775627,Gordon,509,France,Male,35,8,0.0,2,0,1,67431.28,0,0,3,GOLD,825
+15673439,Sun,646,Spain,Female,50,5,142644.64,2,1,1,142208.5,1,1,4,GOLD,951
+15752801,Bradshaw,518,Germany,Male,29,9,125961.74,2,1,0,160303.08,1,1,3,DIAMOND,586
+15574842,Lorenzo,653,Germany,Female,25,2,158266.42,3,1,1,199357.24,0,0,4,GOLD,630
+15780362,Ferrari,607,France,Female,49,9,119960.29,2,1,0,103068.22,0,0,2,PLATINUM,768
+15806284,Briggs,739,Spain,Male,31,1,0.0,2,1,1,58469.75,0,0,1,GOLD,252
+15590730,Hunt,745,Spain,Male,34,9,0.0,2,1,0,50046.25,0,0,3,SILVER,848
+15709183,Davidson,707,France,Female,58,3,102346.86,1,1,1,114672.64,0,0,5,PLATINUM,887
+15784092,Henderson,732,France,Male,36,7,126195.81,1,1,1,133172.48,0,0,1,DIAMOND,549
+15805112,Pokrovsky,578,France,Male,38,7,82259.29,1,1,0,8996.97,0,0,1,DIAMOND,325
+15641366,Y?an,599,Germany,Male,61,1,124737.96,1,0,1,90389.61,1,1,3,PLATINUM,914
+15672754,Burbidge,498,Germany,Male,42,3,152039.7,1,1,1,53445.17,1,1,3,GOLD,790
+15649121,Pinto,665,France,Male,52,3,0.0,1,1,0,116137.01,1,1,1,GOLD,307
