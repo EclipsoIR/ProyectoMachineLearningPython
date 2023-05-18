@@ -711,7 +711,7 @@ France,Male,7,105405.97,1,1,1,149853.89,0,0,2,PLATINUM,274,Fair,Jovenes-Adultos
 France,Female,2,88915.37,3,0,0,161435.02,1,1,1,PLATINUM,561,Fair,Adultos-Mayores
 France,Male,8,0.0,2,1,1,102925.76,0,0,3,GOLD,256,Fair,Adultos-Mayores
 France,Male,5,0.0,2,1,1,70899.27,0,0,2,DIAMOND,664,Fair,Adultos
-France,Male,2,160980.03,1,0,0,145936.28,0,0,5,DIAMOND,821,Excellent,
+France,Male,2,160980.03,1,0,0,145936.28,0,0,5,DIAMOND,821,Excellent,Jovenes
 Spain,Female,5,177619.71,1,1,0,54227.06,0,0,1,GOLD,238,Poor,Adultos-Mayores
 Spain,Male,2,62276.99,1,1,1,59280.79,0,0,4,DIAMOND,757,Good,Adultos
 Germany,Male,4,127559.97,2,1,1,126952.5,0,0,5,SILVER,287,Poor,Adultos-Mayores
@@ -1545,7 +1545,7 @@ Germany,Female,6,97956.5,1,1,1,164966.27,0,0,2,SILVER,220,Good,Jovenes
 France,Female,4,0.0,2,1,1,23631.55,0,0,3,PLATINUM,801,Fair,Adultos-Mayores
 Spain,Female,4,0.0,2,0,1,105433.53,0,0,2,SILVER,281,Poor,Adultos
 France,Male,8,141223.68,2,1,0,90591.15,0,0,1,PLATINUM,900,Good,Jovenes-Adultos
-France,Male,10,151762.74,1,0,1,127014.32,0,0,2,GOLD,778,Fair,
+France,Male,10,151762.74,1,0,1,127014.32,0,0,2,GOLD,778,Fair,Jovenes
 Germany,Male,1,141749.74,2,0,1,90905.26,0,0,4,PLATINUM,957,Good,Adultos
 Spain,Male,5,75075.14,1,1,1,8651.92,1,1,4,GOLD,731,Good,Adultos
 France,Female,4,165686.11,2,1,0,15467.98,0,0,5,DIAMOND,694,Good,Jovenes
@@ -1601,7 +1601,7 @@ Germany,Female,7,105722.69,1,1,1,90558.24,1,1,1,DIAMOND,269,Good,Adultos
 Spain,Male,10,0.0,2,1,0,162022.47,0,0,3,PLATINUM,562,Very Good,Jovenes-Adultos
 Spain,Female,8,0.0,3,1,0,66926.83,1,1,2,PLATINUM,812,Excellent,Adultos
 Spain,Female,8,0.0,2,1,0,108891.3,0,0,2,PLATINUM,672,Very Good,Adultos
-France,Female,4,82767.42,1,1,0,71811.9,0,0,5,SILVER,507,Poor,
+France,Female,4,82767.42,1,1,0,71811.9,0,0,5,SILVER,507,Poor,Jovenes
 France,Female,1,87842.98,1,0,0,92223.59,0,0,4,PLATINUM,927,Good,Adultos
 Spain,Male,6,133261.13,1,1,1,78065.9,0,0,4,GOLD,344,Good,Adultos
 Spain,Female,3,0.0,2,1,1,59679.9,0,0,1,SILVER,526,Good,Jovenes-Adultos
@@ -1935,7 +1935,7 @@ Spain,Female,4,0.0,1,0,0,4539.38,0,0,2,DIAMOND,521,Good,Adultos
 Germany,Male,3,160358.68,2,1,0,142367.72,0,0,3,GOLD,527,Good,Jovenes-Adultos
 France,Male,3,98415.37,1,1,1,110520.48,0,0,3,PLATINUM,635,Good,Jovenes-Adultos
 Germany,Female,6,57809.32,1,1,0,188258.49,0,0,3,DIAMOND,545,Fair,Jovenes-Adultos
-Germany,Female,3,128743.8,1,0,0,197322.13,0,0,5,GOLD,243,Good,
+Germany,Female,3,128743.8,1,0,0,197322.13,0,0,5,GOLD,243,Good,Jovenes
 Germany,Male,4,130806.42,2,1,0,80241.14,0,0,1,GOLD,796,Poor,Jovenes
 France,Male,1,123971.16,1,0,1,172814.99,0,0,3,GOLD,543,Fair,Adultos
 Spain,Female,6,0.0,1,0,0,38410.74,1,1,4,SILVER,542,Poor,Adultos
@@ -2044,12 +2044,12 @@ Spain,Female,6,86053.52,2,1,1,113276.46,1,1,5,PLATINUM,529,Fair,Adultos
 France,Female,6,123157.95,1,1,0,172531.23,0,0,3,GOLD,499,Good,Jovenes-Adultos
 France,Male,1,63438.91,1,1,0,64375.4,0,0,5,GOLD,658,Good,Adultos
 Germany,Male,9,95295.39,1,1,0,28434.44,1,1,1,SILVER,888,Good,Adultos-Mayores
-France,Male,4,133550.67,1,1,1,46941.41,0,0,4,PLATINUM,864,Good,
+France,Male,4,133550.67,1,1,1,46941.41,0,0,4,PLATINUM,864,Good,Jovenes
 France,Female,1,106871.81,2,1,0,29333.01,0,0,3,SILVER,527,Excellent,Adultos
 Spain,Male,3,105266.32,2,1,1,193724.51,0,0,5,SILVER,372,Good,Adultos
 France,Female,2,105229.53,1,1,0,34967.75,1,1,2,SILVER,848,Fair,Adultos-Mayores
 France,Male,8,102768.42,1,1,0,55663.85,0,0,4,DIAMOND,285,Fair,Adultos
-France,Male,7,0.0,2,1,1,55753.12,1,1,5,DIAMOND,603,Good,
+France,Male,7,0.0,2,1,1,55753.12,1,1,5,DIAMOND,603,Good,Jovenes
 France,Male,6,112689.95,1,1,0,176962.31,0,0,3,SILVER,828,Good,Jovenes-Adultos
 France,Male,9,122334.26,2,1,1,181507.44,0,0,1,SILVER,586,Excellent,Adultos
 Spain,Male,1,0.0,2,1,0,61995.57,0,0,5,SILVER,522,Fair,Jovenes-Adultos
@@ -3177,7 +3177,7 @@ France,Female,7,0.0,2,1,1,44099.75,0,0,3,GOLD,718,Poor,Jovenes-Adultos
 Spain,Male,5,0.0,2,1,1,175043.69,0,0,4,GOLD,332,Excellent,Adultos
 France,Female,2,0.0,1,1,0,146388.85,1,1,5,DIAMOND,339,Poor,Adultos
 France,Female,3,0.0,2,0,0,2465.8,0,0,4,GOLD,452,Excellent,Adultos
-France,Male,4,0.0,2,1,1,47799.15,0,0,5,PLATINUM,739,Good,
+France,Male,4,0.0,2,1,1,47799.15,0,0,5,PLATINUM,739,Good,Jovenes
 France,Male,5,129278.43,1,0,0,165562.84,0,0,1,DIAMOND,703,Excellent,Jovenes-Adultos
 France,Male,3,119558.35,1,0,0,72927.68,0,0,1,GOLD,386,Good,Jovenes-Adultos
 Germany,Female,5,92467.58,1,1,0,38270.47,0,0,3,GOLD,569,Fair,Adultos
@@ -3348,12 +3348,12 @@ France,Female,3,0.0,2,1,1,61230.83,0,0,4,DIAMOND,353,Poor,Jovenes-Adultos
 France,Male,1,0.0,1,1,1,126837.72,0,0,2,SILVER,472,Very Good,Adultos
 France,Male,2,81951.74,2,1,0,115668.53,0,0,2,DIAMOND,636,Poor,Jovenes-Adultos
 France,Female,5,147531.82,1,1,1,38819.45,0,0,3,DIAMOND,498,Very Good,Adultos
-Spain,Male,3,0.0,2,1,1,86994.54,0,0,2,GOLD,768,Excellent,
+Spain,Male,3,0.0,2,1,1,86994.54,0,0,2,GOLD,768,Excellent,Jovenes
 France,Female,10,135120.72,1,0,0,195204.99,0,0,3,DIAMOND,522,Very Good,Jovenes-Adultos
 Spain,Female,2,0.0,1,0,0,131301.74,0,0,2,SILVER,691,Fair,Jovenes-Adultos
 Spain,Female,8,0.0,2,0,1,100835.19,0,0,2,SILVER,937,Fair,Adultos
 France,Female,7,0.0,2,1,1,198969.78,0,0,4,SILVER,577,Fair,Jovenes-Adultos
-Spain,Male,1,0.0,2,0,0,41542.95,0,0,1,GOLD,371,Very Good,
+Spain,Male,1,0.0,2,0,0,41542.95,0,0,1,GOLD,371,Very Good,Jovenes
 France,Female,5,0.0,2,0,0,118272.07,0,0,4,GOLD,225,Fair,Adultos
 Spain,Female,5,28082.95,1,1,0,69586.27,1,1,1,PLATINUM,605,Fair,Adultos
 France,Female,10,0.0,2,1,0,149629.13,1,1,4,GOLD,870,Poor,Adultos
@@ -3514,7 +3514,7 @@ Spain,Male,8,0.0,2,1,1,15627.51,0,0,5,DIAMOND,940,Fair,Adultos
 France,Female,9,170228.59,2,0,0,148477.57,1,1,5,SILVER,364,Poor,Adultos-Mayores
 France,Female,2,133111.73,1,0,1,79957.95,0,0,3,PLATINUM,956,Poor,Jovenes-Adultos
 Spain,Female,5,0.0,2,0,0,102763.69,0,0,3,DIAMOND,320,Good,Adultos
-France,Male,2,176139.5,2,1,0,129654.22,0,0,3,PLATINUM,405,Good,
+France,Male,2,176139.5,2,1,0,129654.22,0,0,3,PLATINUM,405,Good,Jovenes
 France,Female,2,0.0,2,1,1,40652.33,0,0,3,DIAMOND,237,Fair,Jovenes-Adultos
 Germany,Male,1,110245.13,1,1,1,178291.09,0,0,5,GOLD,728,Good,Jovenes-Adultos
 France,Female,5,0.0,2,1,0,131906.44,0,0,3,PLATINUM,599,Good,Adultos
@@ -4480,7 +4480,7 @@ France,Male,3,0.0,1,1,0,108409.17,1,1,2,PLATINUM,427,Poor,Adultos-Mayores
 Germany,Male,0,144037.6,1,1,0,145325.32,0,0,5,DIAMOND,860,Excellent,Jovenes-Adultos
 France,Female,9,93522.2,1,0,1,81425.61,0,0,5,SILVER,327,Poor,Jovenes
 Spain,Male,1,0.0,2,1,0,51553.43,0,0,5,DIAMOND,959,Excellent,Adultos
-France,Male,10,0.0,2,0,1,52795.15,0,0,5,GOLD,938,Fair,
+France,Male,10,0.0,2,0,1,52795.15,0,0,5,GOLD,938,Fair,Jovenes
 Germany,Male,8,106922.92,2,0,1,84270.09,0,0,5,GOLD,305,Fair,Adultos
 France,Male,8,112972.57,1,1,0,145011.62,0,0,2,PLATINUM,591,Poor,Jovenes-Adultos
 Germany,Female,1,123042.0,1,1,0,66245.44,1,1,1,DIAMOND,704,Poor,Jovenes-Adultos
@@ -6978,7 +6978,7 @@ France,Male,8,155973.88,1,1,0,154208.96,0,0,4,GOLD,777,Poor,Jovenes-Adultos
 Spain,Male,4,129321.44,1,1,1,93624.55,0,0,3,GOLD,245,Very Good,Adultos-Mayores
 Germany,Female,6,138650.49,2,1,0,64746.07,0,0,4,GOLD,372,Very Good,Adultos
 Spain,Male,2,136487.86,2,1,0,82815.93,0,0,4,PLATINUM,237,Good,Adultos
-France,Male,6,0.0,2,1,1,27308.58,0,0,3,PLATINUM,466,Fair,
+France,Male,6,0.0,2,1,1,27308.58,0,0,3,PLATINUM,466,Fair,Jovenes
 France,Female,4,38617.2,1,1,1,104876.8,0,0,1,SILVER,771,Fair,Adultos
 France,Female,7,0.0,2,1,0,151316.37,0,0,2,PLATINUM,660,Fair,Jovenes-Adultos
 France,Female,8,82909.14,1,1,0,91817.38,1,1,1,GOLD,502,Good,Jovenes-Adultos
@@ -7343,7 +7343,7 @@ Spain,Male,2,0.0,2,1,1,105983.09,0,0,1,PLATINUM,345,Good,Adultos-Mayores
 France,Female,5,108028.08,2,0,0,25980.42,1,1,5,GOLD,922,Very Good,Adultos-Mayores
 France,Male,2,0.0,2,1,1,59864.96,0,0,3,PLATINUM,290,Good,Mayores
 Germany,Male,1,122088.67,1,1,0,42581.09,0,0,2,DIAMOND,419,Very Good,Jovenes-Adultos
-Germany,Male,9,90544.0,1,0,1,4777.23,0,0,3,PLATINUM,300,Good,
+Germany,Male,9,90544.0,1,0,1,4777.23,0,0,3,PLATINUM,300,Good,Jovenes
 Spain,Male,6,0.0,2,0,1,178038.17,0,0,4,GOLD,686,Good,Jovenes-Adultos
 France,Male,3,141252.18,4,0,1,128521.16,1,1,5,PLATINUM,741,Excellent,Adultos
 France,Female,5,147813.05,2,0,0,109029.72,0,0,2,SILVER,945,Poor,Jovenes-Adultos
@@ -8097,7 +8097,7 @@ France,Male,8,137624.4,2,1,1,197582.79,0,0,4,GOLD,742,Good,Jovenes
 France,Male,3,121159.65,1,0,0,4033.39,1,1,2,SILVER,435,Fair,Adultos-Mayores
 France,Male,7,0.0,2,0,1,125877.22,0,0,3,DIAMOND,617,Fair,Jovenes-Adultos
 Spain,Male,1,0.0,2,1,1,176913.42,0,0,4,PLATINUM,928,Fair,Adultos-Mayores
-Spain,Male,8,0.0,2,1,0,59172.42,0,0,4,DIAMOND,975,Fair,
+Spain,Male,8,0.0,2,1,0,59172.42,0,0,4,DIAMOND,975,Fair,Jovenes
 Germany,Female,1,144027.8,1,1,1,108731.02,1,1,5,SILVER,480,Good,Adultos-Mayores
 France,Female,6,0.0,2,1,1,175310.38,0,0,2,DIAMOND,408,Good,Jovenes-Adultos
 France,Female,8,140170.61,1,1,1,38170.04,0,0,2,PLATINUM,590,Good,Jovenes-Adultos
@@ -8578,7 +8578,7 @@ Spain,Male,2,0.0,1,1,1,168924.41,0,0,2,GOLD,665,Poor,Jovenes-Adultos
 Spain,Female,7,85660.96,1,0,0,134778.01,0,0,4,PLATINUM,527,Poor,Adultos
 Germany,Male,9,115569.21,1,0,1,119782.89,0,0,1,GOLD,927,Excellent,Adultos
 France,Female,2,81828.22,1,1,0,52167.97,0,0,1,SILVER,691,Fair,Adultos
-Germany,Male,1,132694.73,1,1,0,167689.56,0,0,3,SILVER,323,Fair,
+Germany,Male,1,132694.73,1,1,0,167689.56,0,0,3,SILVER,323,Fair,Jovenes
 Spain,Male,2,108867.0,1,0,0,140800.66,1,1,4,SILVER,456,Poor,Adultos-Mayores
 France,Male,7,0.0,2,1,0,19823.02,0,0,5,PLATINUM,781,Poor,Adultos
 France,Female,5,0.0,2,0,0,72969.9,0,0,2,PLATINUM,905,Very Good,Jovenes-Adultos
@@ -9023,7 +9023,7 @@ France,Female,1,0.0,2,0,1,144978.47,0,0,2,DIAMOND,904,Good,Jovenes
 France,Female,6,140900.97,1,1,1,67288.89,0,0,3,SILVER,396,Fair,Adultos-Mayores
 Germany,Female,5,94049.92,2,1,0,103269.0,0,0,3,SILVER,913,Poor,Jovenes
 Spain,Female,8,98926.4,1,1,1,106969.98,0,0,2,GOLD,474,Good,Jovenes-Adultos
-Germany,Male,2,142872.36,1,1,1,117632.63,0,0,3,GOLD,650,Excellent,
+Germany,Male,2,142872.36,1,1,1,117632.63,0,0,3,GOLD,650,Excellent,Jovenes
 Spain,Male,3,46057.96,2,1,1,189777.66,0,0,3,SILVER,312,Very Good,Jovenes-Adultos
 France,Female,6,119769.77,1,0,1,66032.65,0,0,2,DIAMOND,475,Good,Adultos-Mayores
 France,Female,5,143244.97,1,1,0,98661.27,0,0,5,DIAMOND,768,Poor,Adultos
@@ -9041,13 +9041,13 @@ France,Female,3,123502.53,1,1,1,69826.8,0,0,4,DIAMOND,723,Poor,Jovenes-Adultos
 Germany,Male,8,140894.06,2,1,1,118059.19,0,0,1,GOLD,623,Poor,Adultos
 Germany,Male,7,163867.86,1,1,1,112333.22,0,0,1,PLATINUM,473,Fair,Adultos
 France,Female,2,0.0,2,1,0,14546.76,0,0,3,SILVER,756,Fair,Jovenes-Adultos
-Germany,Female,2,93816.7,2,1,0,126172.11,0,0,1,DIAMOND,523,Good,
+Germany,Female,2,93816.7,2,1,0,126172.11,0,0,1,DIAMOND,523,Good,Jovenes
 Spain,Female,8,0.0,2,1,0,3560.0,0,0,5,GOLD,501,Poor,Adultos
 France,Male,7,0.0,2,1,1,88878.15,0,0,3,DIAMOND,530,Poor,Jovenes-Adultos
 France,Female,0,114668.89,1,1,0,84605.0,0,0,4,PLATINUM,458,Fair,Jovenes-Adultos
 Germany,Male,5,146756.68,1,1,0,78268.61,0,0,2,GOLD,364,Excellent,Adultos
 France,Female,6,150213.71,1,1,0,120668.46,1,1,2,PLATINUM,955,Fair,Adultos-Mayores
-Germany,Male,5,111183.53,2,0,1,10063.75,0,0,5,GOLD,642,Fair,
+Germany,Male,5,111183.53,2,0,1,10063.75,0,0,5,GOLD,642,Fair,Jovenes
 France,Female,9,99816.46,1,1,1,163989.66,1,1,3,PLATINUM,873,Excellent,Adultos
 France,Male,9,0.0,1,1,0,60584.33,0,0,3,PLATINUM,788,Good,Jovenes-Adultos
 France,Female,5,0.0,2,1,1,94170.84,0,0,3,PLATINUM,821,Poor,Adultos
@@ -9090,7 +9090,7 @@ France,Male,4,0.0,1,1,0,8982.75,0,0,5,GOLD,881,Good,Jovenes-Adultos
 France,Male,1,0.0,2,0,0,9984.4,0,0,4,DIAMOND,357,Fair,Jovenes-Adultos
 France,Male,8,129205.49,1,1,1,79146.36,0,0,2,SILVER,460,Fair,Jovenes-Adultos
 Spain,Female,8,0.0,1,1,0,191694.77,1,1,1,PLATINUM,618,Good,Adultos
-Spain,Male,7,0.0,1,0,1,59645.24,1,1,1,GOLD,620,Fair,
+Spain,Male,7,0.0,1,0,1,59645.24,1,1,1,GOLD,620,Fair,Jovenes
 Germany,Male,7,104015.54,2,1,1,55207.88,0,0,1,PLATINUM,926,Fair,Jovenes-Adultos
 Spain,Male,3,0.0,2,1,0,166177.3,0,0,1,GOLD,612,Poor,Adultos
 France,Female,9,0.0,2,0,0,136356.97,0,0,3,PLATINUM,970,Poor,Jovenes-Adultos
@@ -9290,7 +9290,7 @@ France,Female,9,0.0,2,1,0,183147.17,0,0,4,GOLD,292,Good,Adultos
 Spain,Male,10,121355.99,1,1,0,138360.29,0,0,5,GOLD,870,Poor,Adultos
 Germany,Female,9,109003.26,1,1,1,79580.56,0,0,1,DIAMOND,592,Excellent,Adultos
 France,Female,3,147341.43,1,1,1,157458.61,1,1,3,DIAMOND,611,Fair,Adultos-Mayores
-France,Male,7,102983.91,1,1,0,171770.58,0,0,5,DIAMOND,434,Poor,
+France,Male,7,102983.91,1,1,0,171770.58,0,0,5,DIAMOND,434,Poor,Jovenes
 Germany,Female,4,96252.98,2,1,0,104263.82,0,0,4,GOLD,390,Fair,Adultos-Mayores
 France,Male,4,0.0,2,1,0,167183.07,1,1,2,SILVER,567,Poor,Adultos
 France,Female,5,155879.09,2,0,0,70774.97,0,0,3,SILVER,967,Poor,Jovenes-Adultos
@@ -9436,7 +9436,7 @@ France,Female,6,87772.52,1,1,0,188516.45,0,0,3,SILVER,870,Excellent,Jovenes-Adul
 Germany,Male,4,111096.91,1,1,1,19762.88,0,0,5,PLATINUM,764,Very Good,Adultos
 Germany,Male,9,166776.6,2,0,1,172646.88,0,0,2,SILVER,419,Poor,Adultos
 France,Female,6,101266.51,1,1,0,33501.98,0,0,1,DIAMOND,901,Excellent,Jovenes-Adultos
-Spain,Male,8,134796.87,2,1,1,114858.9,0,0,4,GOLD,904,Good,
+Spain,Male,8,134796.87,2,1,1,114858.9,0,0,4,GOLD,904,Good,Jovenes
 Germany,Female,10,118588.83,1,1,1,161241.65,1,1,5,DIAMOND,443,Good,Adultos
 Germany,Male,5,160454.15,2,0,1,114957.22,0,0,2,PLATINUM,574,Good,Jovenes-Adultos
 France,Male,1,0.0,1,0,1,18708.76,0,0,4,PLATINUM,590,Fair,Mayores
